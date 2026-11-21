@@ -1,0 +1,2402 @@
+[
+  {
+    "card_id": "G01",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Nghe thì cũng hay, nhưng mức phí này cao quá, tôi không muốn mỗi tháng lại thêm một khoản phải gồng.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G01 | GIÁ TRỊ CẢM NHẬN\n“Nghe thì cũng hay, nhưng mức phí này cao quá, tôi không muốn mỗi tháng lại thêm           một khoản phải gồng.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G01",
+    "back_raw": "1. GHI NHẬN: “\nEm hiểu. Có vẻ điều anh/chị lo nhất không phải số tiền đó, mà là cảm giác phải gồng để theo đuổi một kế hoạch trong thời gian dài.\n\n2. HỎI ĐÚNG: “Khi anh/chị nói mức này còn cao, điều mình băn khoăn hơn là khoản phí đóng hàng tháng, hay giá trị nhận được chưa thực sự thuyết phục?\n3. CHIA SẺ GÓC NHÌN: “GIÁ TRỊ TRƯỚC, GIÁ CẢ SAU”: “Trước khi bàn đến chi phí, mình thử nhìn lại mục tiêu cần bảo vệ và xem mức chuẩn bị nào phù hợp nhất với khả năng duy trì lâu dài của gia đình mình nhé.”\n4. LIÊN HỆ: “Với những mục tiêu anh/chị vừa chia sẻ, điều đáng quan tâm không phải mức tham gia cao hay thấp, mà là mục tiêu nào anh/chị muốn được bảo vệ xuyên suốt”\n5. BƯỚC TIẾP THEO: “Em sẽ cùng anh/chị xem qua 2 phương án trong mức ngân sách anh/chị thấy thoải mái, để mình so sánh và lựa chọn phù hợp nhất nhé.”",
+    "original_five_steps": {
+      "acknowledge": "“\nEm hiểu. Có vẻ điều anh/chị lo nhất không phải số tiền đó, mà là cảm giác phải gồng để theo đuổi một kế hoạch trong thời gian dài.",
+      "probe": "“Khi anh/chị nói mức này còn cao, điều mình băn khoăn hơn là khoản phí đóng hàng tháng, hay giá trị nhận được chưa thực sự thuyết phục?",
+      "perspective": "“GIÁ TRỊ TRƯỚC, GIÁ CẢ SAU”: “Trước khi bàn đến chi phí, mình thử nhìn lại mục tiêu cần bảo vệ và xem mức chuẩn bị nào phù hợp nhất với khả năng duy trì lâu dài của gia đình mình nhé.”",
+      "relate": "“Với những mục tiêu anh/chị vừa chia sẻ, điều đáng quan tâm không phải mức tham gia cao hay thấp, mà là mục tiêu nào anh/chị muốn được bảo vệ xuyên suốt”",
+      "next_step": "“Em sẽ cùng anh/chị xem qua 2 phương án trong mức ngân sách anh/chị thấy thoải mái, để mình so sánh và lựa chọn phù hợp nhất nhé.”"
+    },
+    "advisor": {
+      "task": "Làm rõ áp lực đóng phí và khả năng duy trì đóng phí của KH.",
+      "expected_outcome": "TVV hiểu áp lực đóng phí của KH, thống nhất được bước tiếp theo phù hợp nhu cầu KH."
+    },
+    "customer": {
+      "hidden_concern": "Lo không duy trì được phí đóng dài hạn vì thu nhập không ổn định.",
+      "psychology": "Thận trọng, chưa sẵn sàng cam kết tài chính dài hạn.",
+      "level_reactions": {
+        "1": "Tôi lo mỗi tháng thêm khoản cố định; thu nhập đôi khi không đều.",
+        "2": "Quyền lợi tốt thì tôi hiểu, nhưng vẫn phải đóng phí đều; nếu hỏi đúng: tôi sợ thu nhập giảm.",
+        "3": "Nếu ngừng đóng phí hoặc chấm dứt hợp đồng trước hạn thì quyền lợi và giá trị hoàn lại ra sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ áp lực đóng phí, khả năng tài chính và tránh gây áp lực tham gia không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Thu nhập không ổn định; sợ phí dài hạn ảnh hưởng chi tiêu thiết yếu.",
+      "context": "Thận trọng, chưa sẵn sàng cam kết tài chính dài hạn.",
+      "unlock": "Hỏi ngân sách duy trì, khoản chi ưu tiên, không thúc ép.",
+      "levels": {
+        "1": "Tôi lo mỗi tháng thêm khoản cố định; thu nhập đôi khi không đều.",
+        "2": "Quyền lợi tốt thì tôi hiểu, nhưng vẫn phải đóng phí đều; nếu hỏi đúng: tôi sợ thu nhập giảm.",
+        "3": "Nếu ngừng đóng phí hoặc chấm dứt hợp đồng trước hạn thì quyền lợi và giá trị hoàn lại ra sao?"
+      },
+      "reveal": "Khả năng duy trì cam kết tài chính lâu dài."
+    }
+  },
+  {
+    "card_id": "G02",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi đóng tiền nhiều năm, nếu chẳng có chuyện gì thì coi như tiền đó mất à?”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G02 | GIÁ TRỊ CẢM NHẬN\n“Tôi đóng tiền nhiều năm, nếu chẳng có \nchuyện gì thì coi như tiền đó mất à?”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G02",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Khi bỏ tiền ra, mình cần thấy giá trị tương xứng và cảm thấy thoải mái khi duy trì.”\n2. HỎI ĐÚNG: “Anh/chị mong khoản tiền này thực hiện nhiệm vụ nào nhiều hơn: bảo vệ, tích lũy hay kết hợp cả hai?”\n3. CHIA SẺ GÓC NHÌN: “Nhiều thứ quan trọng nhất lại là những thứ mình mong không phải dùng đến. Giá trị nằm ở việc kế hoạch của gia đình luôn có sự chuẩn bị cho những tình huống bất ngờ”\n4. LIÊN HỆ: “Với những mục tiêu anh/chị vừa chia sẻ, đâu là mục tiêu anh/chị không muốn phải trì hoãn hoặc phải  thay đổi nếu có sự kiện ngoài dự kiến xảy ra?\"\n5. BƯỚC TIẾP THEO: “Mình dành 10 phút tách rõ phần bảo vệ và phần tích lũy để anh/chị quyết định nhiệm vụ nào cần ưu tiên nhé?”",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Khi bỏ tiền ra, mình cần thấy giá trị tương xứng và cảm thấy thoải mái khi duy trì.”",
+      "probe": "“Anh/chị mong khoản tiền này thực hiện nhiệm vụ nào nhiều hơn: bảo vệ, tích lũy hay kết hợp cả hai?”",
+      "perspective": "“Nhiều thứ quan trọng nhất lại là những thứ mình mong không phải dùng đến. Giá trị nằm ở việc kế hoạch của gia đình luôn có sự chuẩn bị cho những tình huống bất ngờ”",
+      "relate": "“Với những mục tiêu anh/chị vừa chia sẻ, đâu là mục tiêu anh/chị không muốn phải trì hoãn hoặc phải  thay đổi nếu có sự kiện ngoài dự kiến xảy ra?\"",
+      "next_step": "“Mình dành 10 phút tách rõ phần bảo vệ và phần tích lũy để anh/chị quyết định nhiệm vụ nào cần ưu tiên nhé?”"
+    },
+    "advisor": {
+      "task": "Làm rõ kỳ vọng của KH về quyền lợi bảo vệ và tích lũy.",
+      "expected_outcome": "TVV làm rõ kỳ vọng giá trị của KH, thống nhất rà soát quyền lợi bảo vệ và tích lũy."
+    },
+    "customer": {
+      "hidden_concern": "Sợ đóng phí nhiều năm mà không nhận được giá trị tương xứng.",
+      "psychology": "Cẩn trọng, muốn thấy lợi ích cụ thể.",
+      "level_reactions": {
+        "1": "Tôi muốn biết mình được bảo vệ những gì.",
+        "2": "Nếu không xảy ra rủi ro thì tôi nhận được gì?",
+        "3": "Giá trị hoàn lại có được bảo đảm không? Có phụ thuộc loại hợp đồng không?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt quyền lợi bảo vệ, tích lũy và giá trị không được bảo đảm không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ đóng tiền nhiều năm mà không sử dụng; chưa phân biệt giá trị bảo vệ và tích lũy.",
+      "context": "Cẩn trọng, muốn thấy lợi ích cụ thể.",
+      "unlock": "Hỏi kỳ vọng giá trị, mục tiêu bảo vệ; giải thích quyền lợi và giới hạn.",
+      "levels": {
+        "1": "Tôi muốn biết mình được bảo vệ những gì.",
+        "2": "Nếu không xảy ra rủi ro thì tôi nhận được gì?",
+        "3": "Giá trị hoàn lại có được bảo đảm không? Có phụ thuộc loại hợp đồng không?"
+      },
+      "reveal": "Giá trị bảo vệ ngay cả khi rủi ro không xảy ra."
+    }
+  },
+  {
+    "card_id": "G03",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Cùng số tiền này tôi đầu tư còn có cơ hội sinh lời, mua bảo hiểm làm gì?”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G03 | GIÁ TRỊ CẢM NHẬN\n“Cùng số tiền này tôi đầu tư còn có cơ hội \nsinh lời, mua bảo hiểm làm gì?”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi mình đầu tư cho một kế hoạch dài hạn, ai cũng muốn biết giá trị đó nằm ở đâu nếu mọi việc đều diễn ra suôn sẻ\n2. HỎI ĐÚNG: Anh/chị thấy danh mục hiện tại đã đủ hỗ trợ gia đình mình tiếp tục các kế hoạch quan trọng trong những giai đoạn nhiều thay đổi chưa?\n3. CHIA SẺ GÓC NHÌN: “KẾ HOẠCH A VÀ KẾ HOẠCH B”: Đầu tư là Kế hoạch A để tài sản tăng trưởng. Bảo hiểm là Kế hoạch B để mục tiêu vẫn tiếp tục nếu thời gian hoặc thị trường không đứng về phía mình.\n4. LIÊN HỆ: “Với mục tiêu anh/chị vừa chia sẻ, điều cần kiểm tra không phải mua nhiều hay ít mà là mục tiêu nào không được phép gián đoạn.”\n5. BƯỚC TIẾP THEO: “Mình giữ nguyên kế hoạch đầu tư hiện tại và cùng rà soát xem còn mục tiêu nào của gia đình chưa được danh mục hiện tại hỗ trợ đầy đủ nhé.”",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi mình đầu tư cho một kế hoạch dài hạn, ai cũng muốn biết giá trị đó nằm ở đâu nếu mọi việc đều diễn ra suôn sẻ",
+      "probe": "Anh/chị thấy danh mục hiện tại đã đủ hỗ trợ gia đình mình tiếp tục các kế hoạch quan trọng trong những giai đoạn nhiều thay đổi chưa?",
+      "perspective": "“KẾ HOẠCH A VÀ KẾ HOẠCH B”: Đầu tư là Kế hoạch A để tài sản tăng trưởng. Bảo hiểm là Kế hoạch B để mục tiêu vẫn tiếp tục nếu thời gian hoặc thị trường không đứng về phía mình.",
+      "relate": "“Với mục tiêu anh/chị vừa chia sẻ, điều cần kiểm tra không phải mua nhiều hay ít mà là mục tiêu nào không được phép gián đoạn.”",
+      "next_step": "“Mình giữ nguyên kế hoạch đầu tư hiện tại và cùng rà soát xem còn mục tiêu nào của gia đình chưa được danh mục hiện tại hỗ trợ đầy đủ nhé.”"
+    },
+    "advisor": {
+      "task": "Làm rõ mục tiêu đầu tư và nhu cầu bảo vệ tài chính.",
+      "expected_outcome": "TVV giúp KH xác định mục tiêu tài chính chưa được bảo vệ đầy đủ, thống nhất bước rà soát."
+    },
+    "customer": {
+      "hidden_concern": "Ưu tiên tăng trưởng tài sản, chưa nhận thấy nhu cầu bảo vệ.",
+      "psychology": "Tự tin về khả năng đầu tư.",
+      "level_reactions": {
+        "1": "Tôi muốn tiền của mình sinh lời.",
+        "2": "Tôi đã có danh mục đầu tư, tại sao phải dành tiền đóng phí?",
+        "3": "Nếu tài sản đầu tư của tôi đủ lớn để tự bảo vệ gia đình thì sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt vai trò đầu tư và bảo hiểm, không phủ nhận lựa chọn của KH không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Ưu tiên đầu tư sinh lời, chưa tính nguồn tài chính khi thu nhập gián đoạn.",
+      "context": "Tự tin về khả năng đầu tư.",
+      "unlock": "Tôn trọng đầu tư; hỏi kế hoạch bảo vệ gia đình khi có biến cố.",
+      "levels": {
+        "1": "Tôi muốn tiền của mình sinh lời.",
+        "2": "Tôi đã có danh mục đầu tư, tại sao phải dành tiền đóng phí?",
+        "3": "Nếu tài sản đầu tư của tôi đủ lớn để tự bảo vệ gia đình thì sao?"
+      },
+      "reveal": "Phân biệt tích lũy tài sản và chuyển giao rủi ro."
+    }
+  },
+  {
+    "card_id": "G04",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi cứ gửi ngân hàng cho chắc, vừa nhìn thấy tiền vừa rút được khi cần.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G04 | GIÁ TRỊ CẢM NHẬN\n“Tôi cứ gửi ngân hàng cho chắc, vừa nhìn thấy tiền vừa rút được khi cần.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G04",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Mình sẽ yên tâm hơn khi thấy rõ khoản tiền của mình và có thể chủ động sử dụng khi cần.\"\n2. HỎI ĐÚNG: \"Khoản tiền gửi hiện nay đang giúp anh/chị thực hiện những mục tiêu nào, và nếu phải sử dụng sớm thì mục tiêu nào sẽ bị ảnh hưởng?\"\n3. CHIA SẺ GÓC NHÌN: “HAI NGĂN TIỀN” Anh/chị hình dung có hai ngăn tiền khác nhau. Một ngăn cho những nhu cầu ngắn hạn, một ngăn cho những nhu cầu tài chính lớn gắn với một sự kiện cụ thể.\n4. LIÊN HỆ:”Với những mục tiêu anh/chị đang hướng đến, anh/chị thấy danh mục hiện tại đã hỗ trợ đầy đủ các kế hoạch quan trọng của gia đình mình chưa?\"\n5. BƯỚC TIẾP THEO: “Mình cùng rà soát xem phần tiền cho nhu cầu ngắn hạn và phần chuẩn bị cho các mục tiêu dài hạn đã được phân bổ phù hợp chưa anh/chị nhé?\"",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Mình sẽ yên tâm hơn khi thấy rõ khoản tiền của mình và có thể chủ động sử dụng khi cần.\"",
+      "probe": "\"Khoản tiền gửi hiện nay đang giúp anh/chị thực hiện những mục tiêu nào, và nếu phải sử dụng sớm thì mục tiêu nào sẽ bị ảnh hưởng?\"",
+      "perspective": "“HAI NGĂN TIỀN” Anh/chị hình dung có hai ngăn tiền khác nhau. Một ngăn cho những nhu cầu ngắn hạn, một ngăn cho những nhu cầu tài chính lớn gắn với một sự kiện cụ thể.",
+      "relate": "”Với những mục tiêu anh/chị đang hướng đến, anh/chị thấy danh mục hiện tại đã hỗ trợ đầy đủ các kế hoạch quan trọng của gia đình mình chưa?\"",
+      "next_step": "“Mình cùng rà soát xem phần tiền cho nhu cầu ngắn hạn và phần chuẩn bị cho các mục tiêu dài hạn đã được phân bổ phù hợp chưa anh/chị nhé?\""
+    },
+    "advisor": {
+      "task": "Làm rõ nhu cầu thanh khoản, phân biệt tiền gửi và giải pháp bảo vệ.",
+      "expected_outcome": "TVV hiểu nhu cầu thanh khoản, thống nhất rà soát phân bổ tiền cho mục tiêu tài chính."
+    },
+    "customer": {
+      "hidden_concern": "Muốn chủ động sử dụng tiền khi phát sinh nhu cầu.",
+      "psychology": "Thận trọng, ưu tiên sự an toàn và linh hoạt.",
+      "level_reactions": {
+        "1": "Tôi muốn có tiền sẵn khi cần.",
+        "2": "Tôi không thích đóng phí rồi không chủ động lấy tiền ra được.",
+        "3": "Nếu rút tiền từ hợp đồng bảo hiểm sớm thì có bị mất tiền không?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt tiền gửi, quỹ dự phòng và quyền rút tiền theo điều khoản hợp đồng không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Cần an toàn và khả năng rút tiền; từng phát sinh chi phí bất ngờ.",
+      "context": "Thận trọng, ưu tiên sự an toàn và linh hoạt.",
+      "unlock": "Hỏi nhu cầu dự phòng; phân biệt tiền ngắn hạn và bảo vệ dài hạn.",
+      "levels": {
+        "1": "Tôi muốn có tiền sẵn khi cần.",
+        "2": "Tôi không thích đóng phí rồi không chủ động lấy tiền ra được.",
+        "3": "Nếu rút tiền từ hợp đồng bảo hiểm sớm thì có bị mất tiền không?"
+      },
+      "reveal": "Quyền chủ động và an toàn tài chính."
+    }
+  },
+  {
+    "card_id": "G05",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi xem rồi, quyền lợi như vậy chưa đủ hấp dẫn để tôi bỏ tiền ra.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G05 | GIÁ TRỊ CẢM NHẬN\n“Tôi xem rồi, quyền lợi như vậy chưa đủ \nhấp dẫn để tôi bỏ tiền ra.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G05",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Khi đầu tư một khoản tiền, mình cần thấy giá trị tương xứng và phù hợp với mục tiêu của mình”\n2. HỎI ĐÚNG: “Tiêu chí nào là quan trọng nhất để anh/chị thấy khoản tiền mình bỏ ra là xứng đáng?”\n3. CHIA SẺ GÓC NHÌN: “ĐỪNG ĐẾM TÍNH NĂNG, HÃY ĐO NHIỆM VỤ”: Giá trị không nằm ở số lượng quyền lợi, mà ở việc giải pháp đó giúp mình đạt được mục tiêu nào.\n4. LIÊN HỆ: “Với mục tiêu anh/chị vừa chia sẻ, giá trị nằm ở việc giải pháp này giúp được điều gì cho gia đình mình.\n5. BƯỚC TIẾP THEO: “Anh/chị chọn ra 3 điều quan trọng nhất, em cùng kiểm tra giải pháp này có đáp ứng được không nhé?”",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Khi đầu tư một khoản tiền, mình cần thấy giá trị tương xứng và phù hợp với mục tiêu của mình”",
+      "probe": "“Tiêu chí nào là quan trọng nhất để anh/chị thấy khoản tiền mình bỏ ra là xứng đáng?”",
+      "perspective": "“ĐỪNG ĐẾM TÍNH NĂNG, HÃY ĐO NHIỆM VỤ”: Giá trị không nằm ở số lượng quyền lợi, mà ở việc giải pháp đó giúp mình đạt được mục tiêu nào.",
+      "relate": "“Với mục tiêu anh/chị vừa chia sẻ, giá trị nằm ở việc giải pháp này giúp được điều gì cho gia đình mình.",
+      "next_step": "“Anh/chị chọn ra 3 điều quan trọng nhất, em cùng kiểm tra giải pháp này có đáp ứng được không nhé?”"
+    },
+    "advisor": {
+      "task": "Xác định tiêu chí đánh giá giá trị và mức độ phù hợp của quyền lợi.",
+      "expected_outcome": "TVV xác định ba quyền lợi KH ưu tiên, thống nhất kiểm tra mức đáp ứng của giải pháp."
+    },
+    "customer": {
+      "hidden_concern": "Chưa thấy quyền lợi đáp ứng đúng nhu cầu.",
+      "psychology": "Khắt khe, thích so sánh.",
+      "level_reactions": {
+        "1": "Tôi muốn quyền lợi tốt hơn.",
+        "2": "Tôi chưa thấy quyền lợi nào thực sự quan trọng với gia đình mình.",
+        "3": "Nếu có nhiều quyền lợi nhưng điều kiện chi trả phức tạp thì giá trị thực tế là gì?"
+      }
+    },
+    "observer": {
+      "focus": "Có xác định ưu tiên của KH và đối chiếu quyền lợi với nhu cầu thực tế không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đã xem Bảng minh họa nhưng chưa thấy quyền lợi gắn với nhu cầu gia đình.",
+      "context": "Khắt khe, thích so sánh.",
+      "unlock": "Hỏi điều quan trọng nhất và kỳ vọng bảo vệ; liên hệ nhu cầu.",
+      "levels": {
+        "1": "Tôi muốn quyền lợi tốt hơn.",
+        "2": "Tôi chưa thấy quyền lợi nào thực sự quan trọng với gia đình mình.",
+        "3": "Nếu có nhiều quyền lợi nhưng điều kiện chi trả phức tạp thì giá trị thực tế là gì?"
+      },
+      "reveal": "Quyền lợi phù hợp quan trọng hơn số lượng quyền lợi."
+    }
+  },
+  {
+    "card_id": "G06",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi khỏe thế này, ít khi đi bệnh viện lắm, mua BH chỉ phí tiền.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G06 | GIÁ TRỊ CẢM NHẬN\n“Tôi khỏe thế này, ít khi đi bệnh viện lắm,\n mua BH chỉ phí tiền.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G06",
+    "back_raw": "1. GHI NHẬN: “Đó là điều rất đáng quý. Em rất mừng khi biết anh/chị đang khỏe mạnh và mọi việc vẫn ổn.”\n2. HỎI ĐÚNG: “Theo anh/chị, mình nên chuẩn bị khi đang có nhiều lựa chọn hay đợi đến lúc cần mới xem lại?”\n3. CHIA SẺ GÓC NHÌN: BẢO HIỂM CHỈ MUA ĐƯỢC KHI CÒN KHỎE\nTiền giúp mình khả năng đóng phí. Nhưng sức khỏe mới giúp mình đủ điều kiện tham gia.\n4. LIÊN HỆ: “Với mục tiêu anh/chị vừa chia sẻ, điều đáng cân nhắc là chuẩn bị khi mình còn đang có nhiều lựa chọn.”\n5. BƯỚC TIẾP THEO: “Em chuẩn bị một phương án nền tảng để anh/chị xem khi anh/chị còn đang có nhiều lựa chọn nhé?”",
+    "original_five_steps": {
+      "acknowledge": "“Đó là điều rất đáng quý. Em rất mừng khi biết anh/chị đang khỏe mạnh và mọi việc vẫn ổn.”",
+      "probe": "“Theo anh/chị, mình nên chuẩn bị khi đang có nhiều lựa chọn hay đợi đến lúc cần mới xem lại?”",
+      "perspective": "BẢO HIỂM CHỈ MUA ĐƯỢC KHI CÒN KHỎE\nTiền giúp mình khả năng đóng phí. Nhưng sức khỏe mới giúp mình đủ điều kiện tham gia.",
+      "relate": "“Với mục tiêu anh/chị vừa chia sẻ, điều đáng cân nhắc là chuẩn bị khi mình còn đang có nhiều lựa chọn.”",
+      "next_step": "“Em chuẩn bị một phương án nền tảng để anh/chị xem khi anh/chị còn đang có nhiều lựa chọn nhé?”"
+    },
+    "advisor": {
+      "task": "Giúp KH nhận diện nhu cầu bảo vệ khi sức khỏe hiện tại tốt, không gây sợ hãi.",
+      "expected_outcome": "TVV giúp KH nhận diện nhu cầu bảo vệ, thống nhất xem xét phương án và điều kiện tham gia."
+    },
+    "customer": {
+      "hidden_concern": "Cho rằng ít khả năng sử dụng quyền lợi, chưa thấy cần thiết.",
+      "psychology": "Tự tin, ít quan tâm rủi ro sức khỏe.",
+      "level_reactions": {
+        "1": "Tôi rất ít khi bị bệnh.",
+        "2": "Tôi khám sức khỏe định kỳ, kết quả đều tốt.",
+        "3": "Nếu đang khỏe mạnh thì có chắc chắn được chấp thuận bảo hiểm không?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích ý nghĩa bảo vệ và điều kiện tham gia, tránh cam kết chấp thuận không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đang khỏe, ít đi viện; chưa tính tác động tài chính của rủi ro tương lai.",
+      "context": "Tự tin, ít quan tâm rủi ro sức khỏe.",
+      "unlock": "Ghi nhận chăm sóc sức khỏe; hỏi phương án nếu sức khỏe thay đổi.",
+      "levels": {
+        "1": "Tôi rất ít khi bị bệnh.",
+        "2": "Tôi khám sức khỏe định kỳ, kết quả đều tốt.",
+        "3": "Nếu đang khỏe mạnh thì có chắc chắn được chấp thuận bảo hiểm không?"
+      },
+      "reveal": "Nhu cầu bảo vệ không chỉ dựa vào sức khỏe hiện tại."
+    }
+  },
+  {
+    "card_id": "G07",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Công ty tôi đã mua bảo hiểm sức khỏe rồi, mua thêm làm gì cho trùng?”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G07 | GIÁ TRỊ CẢM NHẬN\n“Công ty tôi đã mua bảo hiểm sức khỏe rồi, \nmua thêm làm gì cho trùng?”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G07",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Nếu đã có bảo hiểm từ công ty, mình sẽ muốn biết có cần bổ sung thêm hay không.”\n2. HỎI ĐÚNG: “Quyền lợi đó hiện đang hỗ trợ những phần nào của anh/chị và gia đình?”\n3. CHIA SẺ GÓC NHÌN: “PHÚC LỢI ĐI THEO CÔNG VIỆC, KẾ HOẠCH CÁ NHÂN ĐI THEO MÌNH”: Quyền lợi công ty là nền tảng tốt nhưng có thể thay đổi khi việc làm thay đổi. Kế hoạch cá nhân giúp khách hàng chủ động cho những mục tiêu quan trọng của gia đình.\n4. LIÊN HỆ: “Với những mục tiêu anh/chị vừa chia sẻ, mình hãy cùng xem phần nào đã được công ty hỗ trợ và phần nào anh/chị muốn chủ động chuẩn bị thêm.\n5. BƯỚC TIẾP THEO: “Mình cùng đối chiếu quyền lợi hiện có để xem còn khoảng nào chưa được bảo vệ nhé?”",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Nếu đã có bảo hiểm từ công ty, mình sẽ muốn biết có cần bổ sung thêm hay không.”",
+      "probe": "“Quyền lợi đó hiện đang hỗ trợ những phần nào của anh/chị và gia đình?”",
+      "perspective": "“PHÚC LỢI ĐI THEO CÔNG VIỆC, KẾ HOẠCH CÁ NHÂN ĐI THEO MÌNH”: Quyền lợi công ty là nền tảng tốt nhưng có thể thay đổi khi việc làm thay đổi. Kế hoạch cá nhân giúp khách hàng chủ động cho những mục tiêu quan trọng của gia đình.",
+      "relate": "“Với những mục tiêu anh/chị vừa chia sẻ, mình hãy cùng xem phần nào đã được công ty hỗ trợ và phần nào anh/chị muốn chủ động chuẩn bị thêm.",
+      "next_step": "“Mình cùng đối chiếu quyền lợi hiện có để xem còn khoảng nào chưa được bảo vệ nhé?”"
+    },
+    "advisor": {
+      "task": "Rà soát quyền lợi bảo hiểm hiện có, xác định nhu cầu chưa được đáp ứng.",
+      "expected_outcome": "TVV xác định nhu cầu bảo vệ chưa được đáp ứng, thống nhất đối chiếu quyền lợi."
+    },
+    "customer": {
+      "hidden_concern": "Không muốn đóng phí cho quyền lợi trùng lặp.",
+      "psychology": "Thực tế, chú trọng hiệu quả chi phí.",
+      "level_reactions": {
+        "1": "Tôi đã được công ty mua bảo hiểm sức khỏe.",
+        "2": "Tôi chưa biết rõ quyền lợi công ty đang chi trả.",
+        "3": "Nếu nghỉ việc thì quyền lợi bảo hiểm của tôi có còn hiệu lực không?"
+      }
+    },
+    "observer": {
+      "focus": "Có kiểm tra quyền lợi hiện có và điều kiện duy trì theo chính sách công ty không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đã có bảo hiểm công ty; chưa rõ hạn mức, phạm vi và khi đổi việc.",
+      "context": "Thực tế, chú trọng hiệu quả chi phí.",
+      "unlock": "Ghi nhận quyền lợi hiện tại; cùng rà soát khoảng trống nếu có.",
+      "levels": {
+        "1": "Tôi đã được công ty mua bảo hiểm sức khỏe.",
+        "2": "Tôi chưa biết rõ quyền lợi công ty đang chi trả.",
+        "3": "Nếu nghỉ việc thì quyền lợi bảo hiểm của tôi có còn hiệu lực không?"
+      },
+      "reveal": "Tránh trùng lặp và xác định khoảng trống bảo vệ thực tế."
+    }
+  },
+  {
+    "card_id": "G08",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi có mấy hợp đồng rồi, thật sự không muốn mua thêm nữa.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G08 | GIÁ TRỊ CẢM NHẬN\n“Tôi có mấy hợp đồng rồi, thật sự không muốn mua thêm nữa.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G08",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Khi đã có nhiều hợp đồng rồi, điều mình quan tâm là còn thiếu gì chứ không phải là mua thêm hợp đồng.”\n2. HỎI ĐÚNG: “Anh/chị có muốn em cùng rà soát xem các kế hoạch hiện tại đã hỗ trợ đủ mục tiêu của mình chưa?\n3. CHIA SẺ GÓC NHÌN: “SỐ LƯỢNG HỢP ĐỒNG CHƯA NÓI LÊN MỨC ĐỘ HOÀN THIỆN\nGiá trị không nằm ở số hợp đồng đang có, mà ở việc các mục tiêu quan trọng của gia đình đã được chuẩn bị đầy đủ đến đâu.\n4. LIÊN HỆ: “Với những mục tiêu anh/chị vừa chia sẻ, mình cùng xem còn mục tiêu nào chưa được hỗ trợ đúng mức không nhé.\n5. BƯỚC TIẾP THEO: “Mình cùng rà soát tổng thể. Nếu đã đủ HĐ rồi thì anh/chị cũng có thêm sự yên tâm nhé?”\nMỐI QUAN TÂM GỐC: GIÁ TRỊ",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Khi đã có nhiều hợp đồng rồi, điều mình quan tâm là còn thiếu gì chứ không phải là mua thêm hợp đồng.”",
+      "probe": "“Anh/chị có muốn em cùng rà soát xem các kế hoạch hiện tại đã hỗ trợ đủ mục tiêu của mình chưa?",
+      "perspective": "“SỐ LƯỢNG HỢP ĐỒNG CHƯA NÓI LÊN MỨC ĐỘ HOÀN THIỆN\nGiá trị không nằm ở số hợp đồng đang có, mà ở việc các mục tiêu quan trọng của gia đình đã được chuẩn bị đầy đủ đến đâu.",
+      "relate": "“Với những mục tiêu anh/chị vừa chia sẻ, mình cùng xem còn mục tiêu nào chưa được hỗ trợ đúng mức không nhé.",
+      "next_step": "“Mình cùng rà soát tổng thể. Nếu đã đủ HĐ rồi thì anh/chị cũng có thêm sự yên tâm nhé?”\nMỐI QUAN TÂM GỐC: GIÁ TRỊ"
+    },
+    "advisor": {
+      "task": "Làm rõ mức bảo vệ hiện có, không mặc định KH cần tham gia thêm.",
+      "expected_outcome": "TVV xác định mức bảo vệ hiện tại, thống nhất rà soát hợp đồng và nhu cầu còn thiếu."
+    },
+    "customer": {
+      "hidden_concern": "Lo đóng nhiều phí nhưng hợp đồng chưa chắc phù hợp.",
+      "psychology": "Mệt mỏi khi được giới thiệu bảo hiểm thêm.",
+      "level_reactions": {
+        "1": "Tôi đã có ba hợp đồng rồi.",
+        "2": "Tôi không biết các hợp đồng hiện tại có trùng quyền lợi không.",
+        "3": "Nếu đã được bảo vệ đầy đủ, tại sao tôi phải tham gia thêm?"
+      }
+    },
+    "observer": {
+      "focus": "Có ưu tiên rà soát hợp đồng hiện có và chấp nhận KH không cần mua thêm không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đã có nhiều hợp đồng; lo phí và trùng quyền lợi; chưa được rà soát tổng thể.",
+      "context": "Mệt mỏi khi được giới thiệu bảo hiểm thêm.",
+      "unlock": "Đề nghị rà soát hợp đồng hiện tại trước khi giới thiệu thêm.",
+      "levels": {
+        "1": "Tôi đã có ba hợp đồng rồi.",
+        "2": "Tôi không biết các hợp đồng hiện tại có trùng quyền lợi không.",
+        "3": "Nếu đã được bảo vệ đầy đủ, tại sao tôi phải tham gia thêm?"
+      },
+      "reveal": "Cần rõ mức độ bảo vệ hiện có, không mặc định mua thêm."
+    }
+  },
+  {
+    "card_id": "G09",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tiền này tôi để đóng học cho con còn thiết thực hơn.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G09 | GIÁ TRỊ CẢM NHẬN\n“Tiền này tôi để đóng học cho con \ncòn thiết thực hơn.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G09",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Bậc cha mẹ cũng muốn dành tất cả những gì tốt đẹp cho con.”\n2. HỎI ĐÚNG: Ngoài việc tích lũy cho con, anh/chị đã có kế hoạch nào để bảo vệ nguồn tài chính đó chưa?\n3. CHIA SẺ GÓC NHÌN: BẢO VỆ NGƯỜI TẠO RA QUỸ HỌC VẤN\nChuẩn bị cho việc học của con là quan trọng. Chuẩn bị cho nguồn tài chính nuôi dưỡng kế hoạch đó cũng quan trọng không kém.\n4. LIÊN HỆ: Với mục tiêu học tập của con, mình có thể cùng xem nguồn tài chính cho kế hoạch đó đã được chuẩn bị vững vàng chưa.\n5. BƯỚC TIẾP THEO: Mình cùng xem có cách gì vừa duy trì việc học tập hiện tại của con, vừa chuẩn bị cho nguồn tài chính cho cả hành trình học vấn  nhé?",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Bậc cha mẹ cũng muốn dành tất cả những gì tốt đẹp cho con.”",
+      "probe": "Ngoài việc tích lũy cho con, anh/chị đã có kế hoạch nào để bảo vệ nguồn tài chính đó chưa?",
+      "perspective": "BẢO VỆ NGƯỜI TẠO RA QUỸ HỌC VẤN\nChuẩn bị cho việc học của con là quan trọng. Chuẩn bị cho nguồn tài chính nuôi dưỡng kế hoạch đó cũng quan trọng không kém.",
+      "relate": "Với mục tiêu học tập của con, mình có thể cùng xem nguồn tài chính cho kế hoạch đó đã được chuẩn bị vững vàng chưa.",
+      "next_step": "Mình cùng xem có cách gì vừa duy trì việc học tập hiện tại của con, vừa chuẩn bị cho nguồn tài chính cho cả hành trình học vấn  nhé?"
+    },
+    "advisor": {
+      "task": "Tìm hiểu ưu tiên tiền học cho con và bảo vệ nguồn tiền thực hiện kế hoạch.",
+      "expected_outcome": "TVV hiểu ưu tiên cho con, thống nhất rà soát kế hoạch học tập và nguồn tài chính bảo vệ."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng ngân sách học tập của con.",
+      "psychology": "Quan tâm gia đình, ưu tiên nhu cầu trước mắt.",
+      "level_reactions": {
+        "1": "Tôi muốn dành tiền cho con học.",
+        "2": "Chi phí học của con ngày càng cao, tôi không muốn giảm khoản này.",
+        "3": "Nếu tham gia bảo hiểm khiến tôi không đủ tiền đóng học cho con thì sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng ngân sách học tập và làm rõ phí đóng không ảnh hưởng chi tiêu thiết yếu không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Ưu tiên học phí cho con; lo phí bảo hiểm ảnh hưởng kế hoạch giáo dục.",
+      "context": "Quan tâm gia đình, ưu tiên nhu cầu trước mắt.",
+      "unlock": "Hỏi kế hoạch học tập, ngân sách và phương án bảo vệ mục tiêu.",
+      "levels": {
+        "1": "Tôi muốn dành tiền cho con học.",
+        "2": "Chi phí học của con ngày càng cao, tôi không muốn giảm khoản này.",
+        "3": "Nếu tham gia bảo hiểm khiến tôi không đủ tiền đóng học cho con thì sao?"
+      },
+      "reveal": "Bảo vệ mục tiêu giáo dục mà không gây áp lực tài chính."
+    }
+  },
+  {
+    "card_id": "G10",
+    "category": "GIÁ TRỊ CẢM NHẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Nghe công ty nào cũng nói giống nhau, tôi chưa thấy giải pháp này khác ở đâu.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "G10 | GIÁ TRỊ CẢM NHẬN\n“Nghe công ty nào cũng nói giống nhau, tôi chưa thấy giải pháp này khác ở đâu.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: G10",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Nếu giải pháp nào nghe cũng tương tự nhau, mình sẽ muốn biết điều gì thực sự phù hợp với mình hơn.\n2. HỎI ĐÚNG: Với mục tiêu anh/chị đang quan tâm, điều gì cho anh/chị thấy một giải pháp phù hợp hơn những giải pháp còn lại?\n3. CHIA SẺ GÓC NHÌN: “SO SÁNH THEO MỤC TIÊU \nNhiều giải pháp nghe qua có thể giống nhau. Khác biệt nằm ở việc giải pháp nào phù hợp hơn với mục tiêu của anh/chị. \n4. LIÊN HỆ: Với mục tiêu anh/chị vừa chia sẻ, mình cùng xem giải pháp có đáp ứng đúng điều anh/chị mong muốn không nhé?\n5. BƯỚC TIẾP THEO: Mình cùng làm rõ những điều anh/chị mong đợi nhất từ giải pháp này nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Nếu giải pháp nào nghe cũng tương tự nhau, mình sẽ muốn biết điều gì thực sự phù hợp với mình hơn.",
+      "probe": "Với mục tiêu anh/chị đang quan tâm, điều gì cho anh/chị thấy một giải pháp phù hợp hơn những giải pháp còn lại?",
+      "perspective": "“SO SÁNH THEO MỤC TIÊU \nNhiều giải pháp nghe qua có thể giống nhau. Khác biệt nằm ở việc giải pháp nào phù hợp hơn với mục tiêu của anh/chị.",
+      "relate": "Với mục tiêu anh/chị vừa chia sẻ, mình cùng xem giải pháp có đáp ứng đúng điều anh/chị mong muốn không nhé?",
+      "next_step": "Mình cùng làm rõ những điều anh/chị mong đợi nhất từ giải pháp này nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ tiêu chí lựa chọn, giúp KH đánh giá giải pháp theo nhu cầu.",
+      "expected_outcome": "TVV làm rõ tiêu chí lựa chọn, thống nhất đối chiếu các giải pháp phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Chưa đủ cơ sở đánh giá giải pháp nào phù hợp.",
+      "psychology": "Hoài nghi, muốn thông tin khách quan.",
+      "level_reactions": {
+        "1": "Tôi muốn biết giải pháp này có gì khác.",
+        "2": "Các công ty đều giới thiệu hấp dẫn; tôi không biết tin vào đâu.",
+        "3": "Hãy so sánh cụ thể quyền lợi, loại trừ và phí đóng giữa hai giải pháp."
+      }
+    },
+    "observer": {
+      "focus": "Có so sánh trên tài liệu chính thức, không khẳng định ưu thế khi thiếu căn cứ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đã nghe nhiều giới thiệu tương tự; cần so sánh minh bạch và kiểm chứng.",
+      "context": "Hoài nghi, muốn thông tin khách quan.",
+      "unlock": "Hỏi tiêu chí so sánh; giải thích quyền lợi, loại trừ, giới hạn.",
+      "levels": {
+        "1": "Tôi muốn biết giải pháp này có gì khác.",
+        "2": "Các công ty đều giới thiệu hấp dẫn; tôi không biết tin vào đâu.",
+        "3": "Hãy so sánh cụ thể quyền lợi, loại trừ và phí đóng giữa hai giải pháp."
+      },
+      "reveal": "Cần cơ sở tin cậy để chọn giải pháp phù hợp."
+    }
+  },
+  {
+    "card_id": "N01",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi chỉ lo đến lúc có chuyện thì công ty lại bảo không thuộc diện chi trả.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N01 | NIỀM TIN\n“Tôi chỉ lo đến lúc có chuyện thì công ty \nlại bảo không thuộc diện chi trả.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N01",
+    "back_raw": "1. GHI NHẬN: Em hiểu. HĐBH là một cam kết dài hạn. Ai cũng muốn cảm thấy yên tâm rằng khi cần đến, quyền lợi sẽ được thực hiện đúng theo những gì mình đã tìm hiểu và kỳ vọng.\n2. HỎI ĐÚNG: Điều anh/chị lo nhất là việc quyền lợi có thể không được chi trả hay lo rằng sau này quy trình giải quyết quyền lợi sẽ không như mình kỳ vọng?\n3. CHIA SẺ GÓC NHÌN: ĐỪNG DỰA VÀO LỜI NÓI, HÃY DỰA VÀO HỢP ĐỒNG\nSự an tâm đến từ những gì được thể hiện rõ trong hợp đồng, không phải từ lời cam kết bằng miệng.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi các điều khoản và quyền lợi đã rõ ràng để anh/chị cảm thấy yên tâm\n5. BƯỚC TIẾP THEO: Mình cùng xem rõ quyền lợi, điều kiện chi trả và các trường hợp loại trừ để anh/chị yên tâm hơn nhé?”",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. HĐBH là một cam kết dài hạn. Ai cũng muốn cảm thấy yên tâm rằng khi cần đến, quyền lợi sẽ được thực hiện đúng theo những gì mình đã tìm hiểu và kỳ vọng.",
+      "probe": "Điều anh/chị lo nhất là việc quyền lợi có thể không được chi trả hay lo rằng sau này quy trình giải quyết quyền lợi sẽ không như mình kỳ vọng?",
+      "perspective": "ĐỪNG DỰA VÀO LỜI NÓI, HÃY DỰA VÀO HỢP ĐỒNG\nSự an tâm đến từ những gì được thể hiện rõ trong hợp đồng, không phải từ lời cam kết bằng miệng.",
+      "relate": "Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi các điều khoản và quyền lợi đã rõ ràng để anh/chị cảm thấy yên tâm",
+      "next_step": "Mình cùng xem rõ quyền lợi, điều kiện chi trả và các trường hợp loại trừ để anh/chị yên tâm hơn nhé?”"
+    },
+    "advisor": {
+      "task": "Làm rõ lo ngại về quyền lợi, điều kiện chi trả và trường hợp loại trừ.",
+      "expected_outcome": "TVV hiểu lo ngại chi trả, thống nhất kiểm tra quyền lợi và điều khoản hợp đồng."
+    },
+    "customer": {
+      "hidden_concern": "Sợ đóng phí nhưng không được chi trả khi xảy ra sự kiện bảo hiểm.",
+      "psychology": "Hoài nghi, cần căn cứ cụ thể.",
+      "level_reactions": {
+        "1": "Tôi muốn biết trường hợp nào được chi trả.",
+        "2": "Làm sao biết sự kiện tôi gặp có thuộc phạm vi bảo hiểm?",
+        "3": "Nếu công ty từ chối chi trả, tôi có quyền yêu cầu giải thích và khiếu nại không?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích theo điều khoản hợp đồng, điều kiện chi trả và loại trừ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ đóng phí nhưng không được chi trả do hiểu sai điều kiện.",
+      "context": "Hoài nghi, cần căn cứ cụ thể.",
+      "unlock": "Hỏi trường hợp lo nhất; giải thích phạm vi và loại trừ.",
+      "levels": {
+        "1": "Tôi muốn biết trường hợp nào được chi trả.",
+        "2": "Làm sao biết sự kiện tôi gặp có thuộc phạm vi bảo hiểm?",
+        "3": "Nếu công ty từ chối chi trả, tôi có quyền yêu cầu giải thích và khiếu nại không?"
+      },
+      "reveal": "Cần minh bạch và kiểm chứng quyền lợi."
+    }
+  },
+  {
+    "card_id": "N02",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi nghe nhiều vụ bảo hiểm tìm đủ lý do để từ chối chi trả, nên tôi không tin.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N02 | NIỀM TIN\n“Tôi nghe nhiều vụ bảo hiểm tìm đủ lý do \nđể từ chối chi trả, nên tôi không tin.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N02",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Niềm tin luôn là điều cần có trước khi đưa ra một quyết định dài hạn như thế này.\n2. HỎI ĐÚNG: Trong những câu chuyện anh/chị từng nghe, điều nào khiến anh/chị băn khoăn nhất: tư vấn chưa đầy đủ, kê khai chưa rõ hay việc giải quyết quyền lợi BH?\n3. CHIA SẺ GÓC NHÌN: \nMột trường hợp riêng lẻ không phản ánh toàn bộ sự việc. Điều quan trọng là những thông tin mình có thể kiểm tra và hiểu rõ.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, em nghĩ mình chỉ nên cân nhắc tiếp khi những thông tin quan trọng đã được làm rõ để anh/chị cảm thấy yên tâm\n5. BƯỚC TIẾP THEO: Anh/chị cho em biết cụ thể điều mình đang băn khoăn; em sẽ cùng anh/chị kiểm tra lại thông tin từ nguồn chính thức nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Niềm tin luôn là điều cần có trước khi đưa ra một quyết định dài hạn như thế này.",
+      "probe": "Trong những câu chuyện anh/chị từng nghe, điều nào khiến anh/chị băn khoăn nhất: tư vấn chưa đầy đủ, kê khai chưa rõ hay việc giải quyết quyền lợi BH?",
+      "perspective": "Một trường hợp riêng lẻ không phản ánh toàn bộ sự việc. Điều quan trọng là những thông tin mình có thể kiểm tra và hiểu rõ.",
+      "relate": "Với điều anh/chị đang băn khoăn, em nghĩ mình chỉ nên cân nhắc tiếp khi những thông tin quan trọng đã được làm rõ để anh/chị cảm thấy yên tâm",
+      "next_step": "Anh/chị cho em biết cụ thể điều mình đang băn khoăn; em sẽ cùng anh/chị kiểm tra lại thông tin từ nguồn chính thức nhé?"
+    },
+    "advisor": {
+      "task": "Xác định nguồn gốc nghi ngại, hướng dẫn KH kiểm chứng thông tin chính thức.",
+      "expected_outcome": "TVV xác định nguyên nhân mất niềm tin, thống nhất bước xác minh thông tin KH quan tâm."
+    },
+    "customer": {
+      "hidden_concern": "Sợ công ty bảo hiểm thiếu minh bạch khi giải quyết quyền lợi.",
+      "psychology": "Mất niềm tin, phản ứng với lời biện minh.",
+      "level_reactions": {
+        "1": "Tôi nghe nhiều người không được chi trả.",
+        "2": "Người quen tôi từng bị từ chối chi trả dù đóng phí nhiều năm.",
+        "3": "Nếu nguyên nhân là tư vấn sai hoặc kê khai chưa chính xác thì ai chịu trách nhiệm?"
+      }
+    },
+    "observer": {
+      "focus": "Có lắng nghe, làm rõ sự việc và kiểm chứng thay vì phủ nhận trải nghiệm không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Nghe người quen bị từ chối chi trả; lo quy trình thiếu minh bạch.",
+      "context": "Mất niềm tin, phản ứng với lời biện minh.",
+      "unlock": "Lắng nghe trải nghiệm; giải thích quy trình giải quyết quyền lợi.",
+      "levels": {
+        "1": "Tôi nghe nhiều người không được chi trả.",
+        "2": "Người quen tôi từng bị từ chối chi trả dù đóng phí nhiều năm.",
+        "3": "Nếu nguyên nhân là tư vấn sai hoặc kê khai chưa chính xác thì ai chịu trách nhiệm?"
+      },
+      "reveal": "Cần bằng chứng đáng tin cậy và trách nhiệm."
+    }
+  },
+  {
+    "card_id": "N03",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Lúc bán thì em nào cũng nhiệt tình, vài năm sau cần hỗ trợ lại chẳng gọi được.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N03 | NIỀM TIN\n“Lúc bán thì em nào cũng nhiệt tình, vài năm sau cần hỗ trợ lại chẳng gọi được.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Với một kế hoạch dài hạn, ai cũng muốn biết sẽ có người đồng hành và hỗ trợ khi mình cần\n2. HỎI ĐÚNG: Với anh/chị, một cam kết dài hạn cần đáp ứng những điều gì để mình có thể yên tâm và tin tưởng?\n3. CHIA SẺ GÓC NHÌN: HAI LỚP CHĂM SÓC: Khách hàng cần cả người tư vấn và hệ thống dịch vụ chính thức. Kế hoạch chăm sóc tốt không được phụ thuộc vào một cá nhân duy nhất.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi mọi thông tin đã đủ rõ để anh/chị tự tin với quyết định của mình\n5. BƯỚC TIẾP THEO: Mình thống nhất một buổi rà soát để làm rõ các điểm anh/chị còn băn khoăn, đồng thời lưu lại kênh dịch vụ chính thức để tiện tra cứu khi cần nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Với một kế hoạch dài hạn, ai cũng muốn biết sẽ có người đồng hành và hỗ trợ khi mình cần",
+      "probe": "Với anh/chị, một cam kết dài hạn cần đáp ứng những điều gì để mình có thể yên tâm và tin tưởng?",
+      "perspective": "HAI LỚP CHĂM SÓC: Khách hàng cần cả người tư vấn và hệ thống dịch vụ chính thức. Kế hoạch chăm sóc tốt không được phụ thuộc vào một cá nhân duy nhất.",
+      "relate": "Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi mọi thông tin đã đủ rõ để anh/chị tự tin với quyết định của mình",
+      "next_step": "Mình thống nhất một buổi rà soát để làm rõ các điểm anh/chị còn băn khoăn, đồng thời lưu lại kênh dịch vụ chính thức để tiện tra cứu khi cần nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ kỳ vọng chăm sóc KH và kênh hỗ trợ chính thức.",
+      "expected_outcome": "TVV hiểu kỳ vọng hỗ trợ lâu dài, thống nhất cung cấp kênh dịch vụ chính thức."
+    },
+    "customer": {
+      "hidden_concern": "Sợ không được hỗ trợ trong thời gian hiệu lực hợp đồng.",
+      "psychology": "Thận trọng, coi trọng trách nhiệm lâu dài.",
+      "level_reactions": {
+        "1": "Tôi muốn có người hỗ trợ khi cần.",
+        "2": "Nếu TVV nghỉ việc thì ai hỗ trợ hợp đồng của tôi?",
+        "3": "Khi cần giải quyết quyền lợi bảo hiểm gấp, liên hệ kênh nào và được hỗ trợ ra sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt TVV và hệ thống chăm sóc KH, tránh cam kết chưa xác minh không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ TVV nghỉ việc, không ai hỗ trợ hợp đồng dài hạn.",
+      "context": "Thận trọng, coi trọng trách nhiệm lâu dài.",
+      "unlock": "Hỏi kỳ vọng chăm sóc; giới thiệu kênh hỗ trợ chính thức.",
+      "levels": {
+        "1": "Tôi muốn có người hỗ trợ khi cần.",
+        "2": "Nếu TVV nghỉ việc thì ai hỗ trợ hợp đồng của tôi?",
+        "3": "Khi cần giải quyết quyền lợi bảo hiểm gấp, liên hệ kênh nào và được hỗ trợ ra sao?"
+      },
+      "reveal": "Cần đồng hành lâu dài và hệ thống hỗ trợ."
+    }
+  },
+  {
+    "card_id": "N04",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Hợp đồng dày thế này ai mà đọc hết, tôi sợ ký rồi mới biết mình hiểu sai.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N04 | NIỀM TIN\n“Hợp đồng dày thế này ai mà đọc hết, \ntôi sợ ký rồi mới biết mình hiểu sai.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N04",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Với một quyết định dài hạn, ai cũng muốn chắc rằng mình đã hiểu đúng trước khi đặt bút ký\n2. HỎI ĐÚNG: Nếu chỉ chọn vài nội dung quan trọng nhất cần hiểu rõ, anh/chị muốn đó là những nội dung nào?\n3. CHIA SẺ GÓC NHÌN:\nAnh/chị không cần nhớ toàn bộ hợp đồng. Điều quan trọng là hiểu rõ chi phí, thời hạn, các trường hợp loại trừ và quyền lợi sản phẩm trước khi quyết định.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, em nghĩ mình chỉ nên cân nhắc tiếp khi những thông tin quan trọng đã được làm rõ để anh/chị cảm thấy yên tâm\n5. BƯỚC TIẾP THEO: Mình cùng xem các nội dung cốt lõi và xác nhận lại cách hiểu trước khi quyết định nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Với một quyết định dài hạn, ai cũng muốn chắc rằng mình đã hiểu đúng trước khi đặt bút ký",
+      "probe": "Nếu chỉ chọn vài nội dung quan trọng nhất cần hiểu rõ, anh/chị muốn đó là những nội dung nào?",
+      "perspective": "Anh/chị không cần nhớ toàn bộ hợp đồng. Điều quan trọng là hiểu rõ chi phí, thời hạn, các trường hợp loại trừ và quyền lợi sản phẩm trước khi quyết định.",
+      "relate": "Với điều anh/chị đang băn khoăn, em nghĩ mình chỉ nên cân nhắc tiếp khi những thông tin quan trọng đã được làm rõ để anh/chị cảm thấy yên tâm",
+      "next_step": "Mình cùng xem các nội dung cốt lõi và xác nhận lại cách hiểu trước khi quyết định nhé?"
+    },
+    "advisor": {
+      "task": "Giúp KH nhận diện và hiểu rõ điều khoản quan trọng trước khi ký.",
+      "expected_outcome": "TVV giúp KH nhận diện điều khoản cần rõ, thống nhất rà soát hợp đồng trước khi quyết định."
+    },
+    "customer": {
+      "hidden_concern": "Sợ bỏ sót điều khoản bất lợi hoặc hiểu sai quyền lợi.",
+      "psychology": "Cẩn trọng, ngại thuật ngữ chuyên môn.",
+      "level_reactions": {
+        "1": "Tôi muốn biết những điều khoản quan trọng nhất.",
+        "2": "Nếu có điều khoản tôi chưa hiểu thì làm sao?",
+        "3": "Nếu lời TVV giải thích khác điều khoản hợp đồng thì căn cứ vào đâu?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích quyền lợi, phí đóng, thời hạn, điều kiện, loại trừ và khuyến khích đọc hợp đồng không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ không hiểu hết hợp đồng, lời giải thích khác điều khoản.",
+      "context": "Cẩn trọng, ngại thuật ngữ chuyên môn.",
+      "unlock": "Làm rõ điều khoản quan trọng; khuyến khích đọc và đặt câu hỏi.",
+      "levels": {
+        "1": "Tôi muốn biết những điều khoản quan trọng nhất.",
+        "2": "Nếu có điều khoản tôi chưa hiểu thì làm sao?",
+        "3": "Nếu lời TVV giải thích khác điều khoản hợp đồng thì căn cứ vào đâu?"
+      },
+      "reveal": "Cần hiểu quyền lợi, nghĩa vụ và giới hạn trước khi ký."
+    }
+  },
+  {
+    "card_id": "N05",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Bảng minh họa nhìn đẹp lắm, nhưng sau này có đúng như vậy không?”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N05 | NIỀM TIN\n“Bảng minh họa nhìn đẹp lắm, nhưng sau này có đúng như vậy không?”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N05",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Với một kế hoạch dài hạn, ai cũng muốn biết đâu là quyền lợi được cam kết và đâu là phần phụ thuộc vào kết quả thực tế\n2. HỎI ĐÚNG: Anh/chị đang muốn hiểu rõ đâu là quyền lợi được cam kết và đâu là các giá trị mang tính minh họa phải không ạ?\n3. CHIA SẺ GÓC NHÌN: Bảng minh họa cho thấy các khả năng có thể xảy ra. Điều quan trọng là phân biệt rõ quyền lợi được cam kết và các giá trị có thể thay đổi theo thực tế.\n4. LIÊN HỆ: Với điều anh/chị đang quan tâm, mình có thể cùng xem trực tiếp trên PRUQuote để anh/chị tự đối chiếu và hiểu rõ trước khi quyết định\n5. BƯỚC TIẾP THEO: Mình cùng rà soát tất cả những nội dung trên bản minh họa để bảo đảm cách hiểu của mình hoàn toàn thống nhất nhé?”",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Với một kế hoạch dài hạn, ai cũng muốn biết đâu là quyền lợi được cam kết và đâu là phần phụ thuộc vào kết quả thực tế",
+      "probe": "Anh/chị đang muốn hiểu rõ đâu là quyền lợi được cam kết và đâu là các giá trị mang tính minh họa phải không ạ?",
+      "perspective": "Bảng minh họa cho thấy các khả năng có thể xảy ra. Điều quan trọng là phân biệt rõ quyền lợi được cam kết và các giá trị có thể thay đổi theo thực tế.",
+      "relate": "Với điều anh/chị đang quan tâm, mình có thể cùng xem trực tiếp trên PRUQuote để anh/chị tự đối chiếu và hiểu rõ trước khi quyết định",
+      "next_step": "Mình cùng rà soát tất cả những nội dung trên bản minh họa để bảo đảm cách hiểu của mình hoàn toàn thống nhất nhé?”"
+    },
+    "advisor": {
+      "task": "Phân biệt quyền lợi cam kết và giá trị minh họa không được bảo đảm.",
+      "expected_outcome": "TVV làm rõ kỳ vọng, thống nhất rà soát bảng minh họa và điều khoản sản phẩm."
+    },
+    "customer": {
+      "hidden_concern": "Sợ giá trị thực tế thấp hơn bảng minh họa.",
+      "psychology": "Hoài nghi, quan tâm con số.",
+      "level_reactions": {
+        "1": "Tôi muốn biết con số nào chắc chắn.",
+        "2": "Nếu kết quả thực tế thấp hơn minh họa thì sao?",
+        "3": "Chỉ rõ trên PRUQuote đâu là quyền lợi cam kết và đâu là giá trị không bảo đảm."
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt giá trị được và không được bảo đảm, không cam kết kết quả minh họa không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đã xem Bảng minh họa; chưa phân biệt giá trị bảo đảm và không bảo đảm.",
+      "context": "Hoài nghi, quan tâm con số.",
+      "unlock": "Chỉ rõ giá trị bảo đảm và không bảo đảm, yếu tố ảnh hưởng.",
+      "levels": {
+        "1": "Tôi muốn biết con số nào chắc chắn.",
+        "2": "Nếu kết quả thực tế thấp hơn minh họa thì sao?",
+        "3": "Chỉ rõ trên PRUQuote đâu là quyền lợi cam kết và đâu là giá trị không bảo đảm."
+      },
+      "reveal": "Cần kỳ vọng thực tế, minh bạch về Bảng minh họa."
+    }
+  },
+  {
+    "card_id": "N06",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi không muốn đưa hết thông tin thu nhập, sức khỏe và gia đình cho người khác.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N06 | NIỀM TIN\n“Tôi không muốn đưa hết thông tin thu nhập, sức khỏe và gia đình cho người khác.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N06",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Những thông tin về thu nhập, sức khỏe hay gia đình đều là thông tin rất riêng tư nên việc anh/chị thận trọng là hoàn toàn dễ hiểu\n2. HỎI ĐÚNG: Anh/chị lo nhất là phải chia sẻ quá nhiều thông tin cá nhân, hay lo những thông tin đó có thể không được bảo mật như mình mong muốn?\n3. CHIA SẺ GÓC NHÌN: ĐÚNG THÔNG TIN, ĐÚNG MỤC ĐÍCH, ĐÚNG KÊNH\nThông tin chỉ nên được chia sẻ khi khách hàng hiểu rõ lý do và mục đích sử dụng. Khách hàng luôn có quyền hỏi lại hoặc dừng lại khi chưa thấy rõ ràng.\n4. LIÊN HỆ: Với điều anh/chị đang quan tâm, mình chỉ nên đi tiếp khi anh/chị hiểu rõ vì sao thông tin đó được yêu cầu và cảm thấy thoải mái khi cung cấp.\n5. BƯỚC TIẾP THEO: Em giải thích mục đích từng nhóm thông tin; phần nào anh/chị chưa thoải mái, mình dừng để xác nhận nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Những thông tin về thu nhập, sức khỏe hay gia đình đều là thông tin rất riêng tư nên việc anh/chị thận trọng là hoàn toàn dễ hiểu",
+      "probe": "Anh/chị lo nhất là phải chia sẻ quá nhiều thông tin cá nhân, hay lo những thông tin đó có thể không được bảo mật như mình mong muốn?",
+      "perspective": "ĐÚNG THÔNG TIN, ĐÚNG MỤC ĐÍCH, ĐÚNG KÊNH\nThông tin chỉ nên được chia sẻ khi khách hàng hiểu rõ lý do và mục đích sử dụng. Khách hàng luôn có quyền hỏi lại hoặc dừng lại khi chưa thấy rõ ràng.",
+      "relate": "Với điều anh/chị đang quan tâm, mình chỉ nên đi tiếp khi anh/chị hiểu rõ vì sao thông tin đó được yêu cầu và cảm thấy thoải mái khi cung cấp.",
+      "next_step": "Em giải thích mục đích từng nhóm thông tin; phần nào anh/chị chưa thoải mái, mình dừng để xác nhận nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ lo ngại thông tin cá nhân và mục đích thu thập dữ liệu.",
+      "expected_outcome": "TVV hiểu lo ngại bảo mật, thống nhất làm rõ mục đích và quy trình cung cấp thông tin."
+    },
+    "customer": {
+      "hidden_concern": "Sợ thông tin cá nhân bị sử dụng sai mục đích hoặc tiết lộ.",
+      "psychology": "Cảnh giác, đề cao quyền riêng tư.",
+      "level_reactions": {
+        "1": "Tôi muốn biết tại sao phải cung cấp thông tin này.",
+        "2": "Ai có quyền xem thông tin sức khỏe và thu nhập của tôi?",
+        "3": "Nếu không đồng ý cung cấp một số thông tin thì hồ sơ có được tiếp nhận không?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích mục đích, yêu cầu kê khai trung thực, kênh chính thức và quyền dữ liệu không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Lo dữ liệu thu nhập, sức khỏe và gia đình bị dùng sai mục đích.",
+      "context": "Cảnh giác, đề cao quyền riêng tư.",
+      "unlock": "Giải thích mục đích thu thập, phạm vi sử dụng và bảo mật.",
+      "levels": {
+        "1": "Tôi muốn biết tại sao phải cung cấp thông tin này.",
+        "2": "Ai có quyền xem thông tin sức khỏe và thu nhập của tôi?",
+        "3": "Nếu không đồng ý cung cấp một số thông tin thì hồ sơ có được tiếp nhận không?"
+      },
+      "reveal": "Cần hiểu và kiểm soát việc chia sẻ thông tin."
+    }
+  },
+  {
+    "card_id": "N07",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi từng bị tư vấn sai một lần rồi, giờ nghe bảo hiểm là tôi ngại.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N07 | NIỀM TIN\n“Tôi từng bị tư vấn sai một lần rồi, \ngiờ nghe bảo hiểm là tôi ngại.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N07",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi từng có trải nghiệm không tốt, việc mình trở nên thận trọng hơn là hoàn toàn dễ hiểu\n2. HỎI ĐÚNG: Nếu anh/chị thấy thoải mái chia sẻ, em có thể biết điều gì trong trải nghiệm trước làm anh/chị thất vọng nhất?”\n3. CHIA SẺ GÓC NHÌN: Em nghĩ không ai có thể thay đổi trải nghiệm đã xảy ra. Điều mình có thể làm là làm rõ thông tin, xác nhận bằng tài liệu và anh chị có đủ cơ sở trước khi quyết định.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi điều khoản và bằng chứng đủ rõ để anh/chị tự kiểm tra.”\n5. BƯỚC TIẾP THEO: Xin anh/chị cho em biết đâu là hai điều quan trọng nhất để lấy lại niềm tin; mình chỉ tiếp tục khi những điều đó được làm rõ nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi từng có trải nghiệm không tốt, việc mình trở nên thận trọng hơn là hoàn toàn dễ hiểu",
+      "probe": "Nếu anh/chị thấy thoải mái chia sẻ, em có thể biết điều gì trong trải nghiệm trước làm anh/chị thất vọng nhất?”",
+      "perspective": "Em nghĩ không ai có thể thay đổi trải nghiệm đã xảy ra. Điều mình có thể làm là làm rõ thông tin, xác nhận bằng tài liệu và anh chị có đủ cơ sở trước khi quyết định.",
+      "relate": "Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi điều khoản và bằng chứng đủ rõ để anh/chị tự kiểm tra.”",
+      "next_step": "Xin anh/chị cho em biết đâu là hai điều quan trọng nhất để lấy lại niềm tin; mình chỉ tiếp tục khi những điều đó được làm rõ nhé?"
+    },
+    "advisor": {
+      "task": "Tìm hiểu trải nghiệm cũ, hỗ trợ KH kiểm chứng thông tin.",
+      "expected_outcome": "TVV xác định nguyên nhân mất niềm tin, thống nhất thông tin cần kiểm chứng."
+    },
+    "customer": {
+      "hidden_concern": "Sợ tiếp tục nhận tư vấn sai và đưa ra quyết định bất lợi.",
+      "psychology": "Thất vọng, phòng vệ, không muốn bị thuyết phục.",
+      "level_reactions": {
+        "1": "Trước đây tôi được giải thích quyền lợi không đúng.",
+        "2": "TVV cũ nói một đằng nhưng hợp đồng ghi một nẻo.",
+        "3": "Tại sao lần này tôi phải tin anh/chị? Có gì chứng minh thông tin tư vấn chính xác?"
+      }
+    },
+    "observer": {
+      "focus": "Có lắng nghe, tránh đổ lỗi, dùng tài liệu chính thức không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Từng nhận tư vấn sai; sợ lặp lại trải nghiệm không tốt.",
+      "context": "Thất vọng, phòng vệ, không muốn bị thuyết phục.",
+      "unlock": "Lắng nghe không biện minh; đề nghị kiểm chứng bằng tài liệu.",
+      "levels": {
+        "1": "Trước đây tôi được giải thích quyền lợi không đúng.",
+        "2": "TVV cũ nói một đằng nhưng hợp đồng ghi một nẻo.",
+        "3": "Tại sao lần này tôi phải tin anh/chị? Có gì chứng minh thông tin tư vấn chính xác?"
+      },
+      "reveal": "Cần cơ sở độc lập để tin tưởng trở lại."
+    }
+  },
+  {
+    "card_id": "N08",
+    "category": "NIỀM TIN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi chỉ tham gia nếu em cam kết chắc chắn mọi thứ đúng như mình nói.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "N08 | NIỀM TIN\n“Tôi chỉ tham gia nếu em cam kết chắc chắn \nmọi thứ đúng như mình nói.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: N08",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Với một quyết định dài hạn, ai cũng muốn chắc rằng những gì mình hiểu hôm nay sẽ đúng với những gì mình nhận được sau này\n2. HỎI ĐÚNG: Điều anh/chị muốn chắc chắn nhất là quyền lợi, điều kiện áp dụng hay một kết quả cụ thể nào đó?\n3. CHIA SẺ GÓC NHÌN: LÀM RÕ KỲ VỌNG NGAY TỪ ĐẦU\nEm cho rằng sự tin cậy của anh không đến từ việc em hứa mọi thứ sẽ diễn ra như mong muốn, mà em muốn giúp anh làm rõ trong giải pháp này, những quyền lợi nào được cam kết và điều gì phụ thuộc điều kiện.\n4. LIÊN HỆ: Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi điều khoản và bằng chứng đủ rõ ràng để anh/chị tự kiểm tra.\n5. BƯỚC TIẾP THEO: Mình cùng xem nội dung nào được cam kết, nội dung nào phụ thuộc điều kiện để anh/chị có kỳ vọng rõ ràng trước khi quyết định nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Với một quyết định dài hạn, ai cũng muốn chắc rằng những gì mình hiểu hôm nay sẽ đúng với những gì mình nhận được sau này",
+      "probe": "Điều anh/chị muốn chắc chắn nhất là quyền lợi, điều kiện áp dụng hay một kết quả cụ thể nào đó?",
+      "perspective": "LÀM RÕ KỲ VỌNG NGAY TỪ ĐẦU\nEm cho rằng sự tin cậy của anh không đến từ việc em hứa mọi thứ sẽ diễn ra như mong muốn, mà em muốn giúp anh làm rõ trong giải pháp này, những quyền lợi nào được cam kết và điều gì phụ thuộc điều kiện.",
+      "relate": "Với điều anh/chị đang băn khoăn, mình chỉ nên đi tiếp khi điều khoản và bằng chứng đủ rõ ràng để anh/chị tự kiểm tra.",
+      "next_step": "Mình cùng xem nội dung nào được cam kết, nội dung nào phụ thuộc điều kiện để anh/chị có kỳ vọng rõ ràng trước khi quyết định nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ kỳ vọng và phân biệt cam kết với quyền lợi có điều kiện.",
+      "expected_outcome": "TVV làm rõ kỳ vọng, thống nhất kiểm tra nội dung cam kết và điều kiện áp dụng."
+    },
+    "customer": {
+      "hidden_concern": "Sợ lời tư vấn khác quyền lợi thực tế.",
+      "psychology": "Đòi hỏi chắc chắn, muốn căn cứ rõ.",
+      "level_reactions": {
+        "1": "Tôi muốn mọi quyền lợi được ghi rõ trong hợp đồng.",
+        "2": "Nếu sau này kết quả không như anh/chị giải thích thì sao?",
+        "3": "Anh/chị có dám cam kết chắc chắn mọi trường hợp đều được chi trả không?"
+      }
+    },
+    "observer": {
+      "focus": "Có từ chối cam kết vượt hợp đồng và làm rõ điều kiện, giới hạn, loại trừ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Lo lời TVV khác hợp đồng; muốn mọi thông tin có căn cứ.",
+      "context": "Đòi hỏi chắc chắn, muốn căn cứ rõ.",
+      "unlock": "Phân biệt điều khoản và minh họa; không hứa vượt hợp đồng.",
+      "levels": {
+        "1": "Tôi muốn mọi quyền lợi được ghi rõ trong hợp đồng.",
+        "2": "Nếu sau này kết quả không như anh/chị giải thích thì sao?",
+        "3": "Anh/chị có dám cam kết chắc chắn mọi trường hợp đều được chi trả không?"
+      },
+      "reveal": "Cần tư vấn chính xác, không phải lời hứa tuyệt đối."
+    }
+  },
+  {
+    "card_id": "T01",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi muốn giữ tiền mặt, lúc này cầm tiền trong tay vẫn yên tâm hơn.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T01 | THANH KHOẢN\n“Tôi muốn giữ tiền mặt, lúc này cầm tiền trong tay vẫn yên tâm hơn.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T01",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Giữ tiền mặt để chủ động trước những việc cần chi tiêu là hoàn toàn hợp lý\n2. HỎI ĐÚNG: Anh/chị thường muốn giữ khoản dự phòng tương đương bao nhiêu tháng chi tiêu để cảm thấy an tâm?\n3. CHIA SẺ GÓC NHÌN: TIỀN MẶT LÀ ĐỂ GIẢI QUYẾT NHU CẦU NGẮN HẠN\nGiữ tiền mặt cho những nhu cầu phát sinh là rất cần thiết. Tuy nhiên, nếu thu nhập bị gián đoạn trong thời gian dài, nhu cầu tài chính có thể vượt quá khoản dự phòng ngắn hạn đó\n4. LIÊN HỆ: Mình nên giữ đủ tiền mặt để an tâm, rồi em cùng anh/chị  kiểm tra những kế hoạch quan trọng nào không nên bị ảnh hưởng nếu thu nhập bị gián đoạn\n5. BƯỚC TIẾP THEO: Mình chốt trước mức tiền mặt cần giữ, rồi kiểm tra các kế hoạch quan trọng cần được bảo vệ nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Giữ tiền mặt để chủ động trước những việc cần chi tiêu là hoàn toàn hợp lý",
+      "probe": "Anh/chị thường muốn giữ khoản dự phòng tương đương bao nhiêu tháng chi tiêu để cảm thấy an tâm?",
+      "perspective": "TIỀN MẶT LÀ ĐỂ GIẢI QUYẾT NHU CẦU NGẮN HẠN\nGiữ tiền mặt cho những nhu cầu phát sinh là rất cần thiết. Tuy nhiên, nếu thu nhập bị gián đoạn trong thời gian dài, nhu cầu tài chính có thể vượt quá khoản dự phòng ngắn hạn đó",
+      "relate": "Mình nên giữ đủ tiền mặt để an tâm, rồi em cùng anh/chị  kiểm tra những kế hoạch quan trọng nào không nên bị ảnh hưởng nếu thu nhập bị gián đoạn",
+      "next_step": "Mình chốt trước mức tiền mặt cần giữ, rồi kiểm tra các kế hoạch quan trọng cần được bảo vệ nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ nhu cầu tiền mặt dự phòng và khả năng phân bổ tài chính.",
+      "expected_outcome": "TVV hiểu nhu cầu thanh khoản, thống nhất rà soát quỹ dự phòng và mục tiêu cần bảo vệ."
+    },
+    "customer": {
+      "hidden_concern": "Sợ thiếu tiền cho chi tiêu đột xuất.",
+      "psychology": "Thận trọng, ưu tiên chủ động.",
+      "level_reactions": {
+        "1": "Tôi muốn luôn có sẵn tiền dự phòng.",
+        "2": "Tôi chưa biết giữ bao nhiêu tiền mặt là đủ an tâm.",
+        "3": "Nếu thu nhập gián đoạn sáu tháng, nên ưu tiên quỹ dự phòng hay đóng phí bảo hiểm?"
+      }
+    },
+    "observer": {
+      "focus": "Có xác định nhu cầu dự phòng trước khi đề xuất mức phí đóng không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Cần giữ tiền mặt để ứng phó chi phí bất ngờ.",
+      "context": "Thận trọng, ưu tiên chủ động.",
+      "unlock": "Hỏi khoản dự phòng và ngân sách có thể dành cho bảo vệ.",
+      "levels": {
+        "1": "Tôi muốn luôn có sẵn tiền dự phòng.",
+        "2": "Tôi chưa biết giữ bao nhiêu tiền mặt là đủ an tâm.",
+        "3": "Nếu thu nhập gián đoạn sáu tháng, nên ưu tiên quỹ dự phòng hay đóng phí bảo hiểm?"
+      },
+      "reveal": "Ưu tiên thanh khoản trước cam kết dài hạn."
+    }
+  },
+  {
+    "card_id": "T02",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi đang gom tiền mua nhà, giờ không muốn chia sang đóng phí BH.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T02 | THANH KHOẢN\n“Tôi đang gom tiền mua nhà, giờ không muốn chia sang đóng phí BH.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T02",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi đang tập trung cho mục tiêu mua nhà trước mắt, việc ưu tiên giữ dòng tiền cho mục tiêu đó là hoàn toàn hợp lý.\n2. HỎI ĐÚNG: Anh/chị dự kiến cần khoản tiền này trong bao lâu nữa? Trong thời gian đó, điều gì có thể ảnh hưởng lớn nhất đến kế hoạch mua nhà của mình?\n3. CHIA SẺ GÓC NHÌN: BẢO VỆ NGÔI NHÀ TRƯỚC KHI SỞ HỮU NGÔI NHÀ\nCông việc của em là giúp anh/chị giữ vững kế hoạch mua nhà, đảm bảo kế hoạch này được đi đúng lộ trình ngay cả khi có những thay đổi ngoài dự tính.\n4. LIÊN HỆ: Bên cạnh việc tích lũy cho ngôi nhà tương lai, mình cũng nên xem điều gì có thể làm kế hoạch đó bị chậm lại hoặc gián đoạn.\n5. BƯỚC TIẾP THEO: Anh/chị cho em biết mốc thời gian mua nhà dự kiến, rồi mình cùng xem những yếu tố nào cần được đảm bảo để kế hoạch đó không bị ảnh hưởng nhé.",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi đang tập trung cho mục tiêu mua nhà trước mắt, việc ưu tiên giữ dòng tiền cho mục tiêu đó là hoàn toàn hợp lý.",
+      "probe": "Anh/chị dự kiến cần khoản tiền này trong bao lâu nữa? Trong thời gian đó, điều gì có thể ảnh hưởng lớn nhất đến kế hoạch mua nhà của mình?",
+      "perspective": "BẢO VỆ NGÔI NHÀ TRƯỚC KHI SỞ HỮU NGÔI NHÀ\nCông việc của em là giúp anh/chị giữ vững kế hoạch mua nhà, đảm bảo kế hoạch này được đi đúng lộ trình ngay cả khi có những thay đổi ngoài dự tính.",
+      "relate": "Bên cạnh việc tích lũy cho ngôi nhà tương lai, mình cũng nên xem điều gì có thể làm kế hoạch đó bị chậm lại hoặc gián đoạn.",
+      "next_step": "Anh/chị cho em biết mốc thời gian mua nhà dự kiến, rồi mình cùng xem những yếu tố nào cần được đảm bảo để kế hoạch đó không bị ảnh hưởng nhé."
+    },
+    "advisor": {
+      "task": "Làm rõ kế hoạch mua nhà và nhu cầu bảo vệ nguồn tiền.",
+      "expected_outcome": "TVV hiểu ưu tiên mua nhà, thống nhất rà soát các yếu tố ảnh hưởng kế hoạch."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng làm chậm kế hoạch mua nhà.",
+      "psychology": "Quyết tâm, ưu tiên mục tiêu trước mắt.",
+      "level_reactions": {
+        "1": "Tôi muốn mua nhà trong hai năm tới.",
+        "2": "Tôi đang tiết kiệm chặt, không muốn thêm khoản phí.",
+        "3": "Nếu bảo hiểm làm chậm kế hoạch mua nhà một năm thì có đáng không?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng kế hoạch mua nhà, làm rõ thời hạn và khả năng tài chính không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đang tích lũy mua nhà; sợ phí làm chậm mục tiêu.",
+      "context": "Quyết tâm, ưu tiên mục tiêu trước mắt.",
+      "unlock": "Hỏi mốc mua nhà và ngân sách không ảnh hưởng mục tiêu.",
+      "levels": {
+        "1": "Tôi muốn mua nhà trong hai năm tới.",
+        "2": "Tôi đang tiết kiệm chặt, không muốn thêm khoản phí.",
+        "3": "Nếu bảo hiểm làm chậm kế hoạch mua nhà một năm thì có đáng không?"
+      },
+      "reveal": "Cần giữ tiến độ tích lũy mua nhà."
+    }
+  },
+  {
+    "card_id": "T03",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi đang cần tiền xoay vốn kinh doanh, chứ không muốn rút vốn ra.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T03 | THANH KHOẢN\n“Tôi đang cần tiền xoay vốn kinh doanh, chứ không muốn rút vốn ra.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi doanh nghiệp đang cần vốn để vận hành và phát triển, việc ưu tiên giữ dòng tiền là hoàn toàn hợp lý.\n2. HỎI ĐÚNG: Nếu anh/chị tạm thời không thể trực tiếp điều hành vài tháng, doanh nghiệp sẽ cần khoảng bao nhiêu tiền để duy trì hoạt động bình thường?\n3. CHIA SẺ GÓC NHÌN: VỐN KINH DOANH VÀ QUỸ DỰ PHÒNG CÓ HAI NHIỆM VỤ KHÁC NHAU\nVốn kinh doanh giúp tạo ra lợi nhuận. Quỹ dự phòng giúp doanh nghiệp và gia đình duy trì ổn định khi có tình huống ngoài dự kiến. Hai khoản này không thay thế được cho nhau.\n4. LIÊN HỆ: Sau khi đảm bảo đủ vốn cho hoạt động kinh doanh, mình cùng xem những trách nhiệm tài chính nào vẫn cần được duy trì nếu anh/chị tạm thời không tạo ra dòng tiền như hiện nay nhé.\n5. BƯỚC TIẾP THEO: Mình thử tính khoản tiền cần để doanh nghiệp vận hành trong khoảng 3 tháng nếu anh/chị vắng mặt nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi doanh nghiệp đang cần vốn để vận hành và phát triển, việc ưu tiên giữ dòng tiền là hoàn toàn hợp lý.",
+      "probe": "Nếu anh/chị tạm thời không thể trực tiếp điều hành vài tháng, doanh nghiệp sẽ cần khoảng bao nhiêu tiền để duy trì hoạt động bình thường?",
+      "perspective": "VỐN KINH DOANH VÀ QUỸ DỰ PHÒNG CÓ HAI NHIỆM VỤ KHÁC NHAU\nVốn kinh doanh giúp tạo ra lợi nhuận. Quỹ dự phòng giúp doanh nghiệp và gia đình duy trì ổn định khi có tình huống ngoài dự kiến. Hai khoản này không thay thế được cho nhau.",
+      "relate": "Sau khi đảm bảo đủ vốn cho hoạt động kinh doanh, mình cùng xem những trách nhiệm tài chính nào vẫn cần được duy trì nếu anh/chị tạm thời không tạo ra dòng tiền như hiện nay nhé.",
+      "next_step": "Mình thử tính khoản tiền cần để doanh nghiệp vận hành trong khoảng 3 tháng nếu anh/chị vắng mặt nhé?"
+    },
+    "advisor": {
+      "task": "Phân biệt vốn kinh doanh, quỹ dự phòng và trách nhiệm khi thu nhập gián đoạn.",
+      "expected_outcome": "TVV hiểu nhu cầu vốn, thống nhất tính khoản dự phòng duy trì hoạt động."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng vốn lưu động.",
+      "psychology": "Thực tế, tập trung duy trì kinh doanh.",
+      "level_reactions": {
+        "1": "Tôi cần tiền nhập hàng và vận hành.",
+        "2": "Rút vốn đóng phí sẽ ảnh hưởng dòng tiền kinh doanh.",
+        "3": "Nếu không điều hành ba tháng, làm sao duy trì kinh doanh và trách nhiệm gia đình?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt vốn kinh doanh với dự phòng và làm rõ dòng tiền trước khi đề xuất phí không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Cần vốn lưu động kinh doanh, không muốn rút vốn.",
+      "context": "Thực tế, tập trung duy trì kinh doanh.",
+      "unlock": "Hỏi chu kỳ vốn, thanh toán và ngân sách ngoài vốn thiết yếu.",
+      "levels": {
+        "1": "Tôi cần tiền nhập hàng và vận hành.",
+        "2": "Rút vốn đóng phí sẽ ảnh hưởng dòng tiền kinh doanh.",
+        "3": "Nếu không điều hành ba tháng, làm sao duy trì kinh doanh và trách nhiệm gia đình?"
+      },
+      "reveal": "Cần đảm bảo dòng tiền kinh doanh."
+    }
+  },
+  {
+    "card_id": "T04",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Thu nhập của tôi tháng cao tháng thấp, e sẽ theo không nổi.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T04 | THANH KHOẢN\n“Thu nhập của tôi tháng cao tháng thấp, \ne sẽ theo không nổi.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T04",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi thu nhập không đều, mình sẽ cần một giải pháp phù hợp với khả năng tài chính ở cả những giai đoạn thuận lợi lẫn khó khăn.\n2. HỎI ĐÚNG: Trong những tháng thu nhập thấp, mức chi nào anh/chị vẫn cảm thấy hoàn toàn chủ động và dễ duy trì cuộc sống?\n3. CHIA SẺ GÓC NHÌN: THIẾT KẾ THEO THÁNG THẤP NHẤT\nMột kế hoạch tài chính  bền vững phải được thiết kế dựa vào mức mình vẫn duy trì được ngay cả khi thu nhập giảm.\n4. LIÊN HỆ: Mình nên bắt đầu từ mức anh/chị thấy thoải mái nhất, rồi xem những mục tiêu nào cần được duy trì lâu dài.\n5. BƯỚC TIẾP THEO: Mình lấy mức thu nhập thấp làm chuẩn và xem mức nào vừa an tâm vừa dễ duy trì nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi thu nhập không đều, mình sẽ cần một giải pháp phù hợp với khả năng tài chính ở cả những giai đoạn thuận lợi lẫn khó khăn.",
+      "probe": "Trong những tháng thu nhập thấp, mức chi nào anh/chị vẫn cảm thấy hoàn toàn chủ động và dễ duy trì cuộc sống?",
+      "perspective": "THIẾT KẾ THEO THÁNG THẤP NHẤT\nMột kế hoạch tài chính  bền vững phải được thiết kế dựa vào mức mình vẫn duy trì được ngay cả khi thu nhập giảm.",
+      "relate": "Mình nên bắt đầu từ mức anh/chị thấy thoải mái nhất, rồi xem những mục tiêu nào cần được duy trì lâu dài.",
+      "next_step": "Mình lấy mức thu nhập thấp làm chuẩn và xem mức nào vừa an tâm vừa dễ duy trì nhé?"
+    },
+    "advisor": {
+      "task": "Đánh giá khả năng đóng phí trong tháng thu nhập thấp.",
+      "expected_outcome": "TVV hiểu áp lực đóng phí, thống nhất mức đóng phí có thể duy trì."
+    },
+    "customer": {
+      "hidden_concern": "Sợ không duy trì được đóng phí.",
+      "psychology": "Lo lắng, thiếu tự tin với cam kết dài hạn.",
+      "level_reactions": {
+        "1": "Thu nhập của tôi không đều mỗi tháng.",
+        "2": "Tháng cao đóng được, tháng thấp rất khó.",
+        "3": "Nếu vài tháng một năm không đủ tiền đóng phí thì hợp đồng bị ảnh hưởng thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có dựa vào thu nhập thấp và giải thích đúng điều khoản về đóng phí không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Thu nhập tháng cao thấp; sợ không duy trì được phí.",
+      "context": "Lo lắng, thiếu tự tin với cam kết dài hạn.",
+      "unlock": "Hỏi chu kỳ thu nhập và kịch bản tháng khó khăn.",
+      "levels": {
+        "1": "Thu nhập của tôi không đều mỗi tháng.",
+        "2": "Tháng cao đóng được, tháng thấp rất khó.",
+        "3": "Nếu vài tháng một năm không đủ tiền đóng phí thì hợp đồng bị ảnh hưởng thế nào?"
+      },
+      "reveal": "Cần mức cam kết bền vững khi thu nhập giảm."
+    }
+  },
+  {
+    "card_id": "T05",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Nhà tôi đang có nhiều khoản phải chi, thêm bảo hiểm nữa thì nặng quá.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T05 | THANH KHOẢN\n“Nhà tôi đang có nhiều khoản phải chi, \nthêm bảo hiểm nữa thì nặng quá.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T05",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi đang có nhiều khoản phải ưu tiên, mình sẽ muốn cân nhắc thật kỹ để dòng tiền vẫn thoải mái.\n2. HỎI ĐÚNG: Trong các khoản chi hiện nay, khoản nào anh/chị bắt buộc phải duy trì và khoản nào có thể điều chỉnh nếu cần?\n3. CHIA SẺ GÓC NHÌN: ƯU TIÊN BẢO VỆ NHỮNG GÌ QUAN TRỌNG NHẤT\nKhi ngân sách có quá nhiều việc phải làm, mình không cần giải quyết mọi thứ cùng lúc. Quan trọng là cần xác định khoản nào sẽ bị ảnh hưởng nhiều nhất nếu nguồn thu nhập gặp biến động..\n4. LIÊN HỆ: Sau khi tính toán đủ khoản tiền để chủ động trong chi tiêu, mình cùng xem những kế hoạch nào vẫn cần được duy trì ngay cả khi thu nhập có biến động nhé.\n5. BƯỚC TIẾP THEO: “Mình cùng xem những kế hoạch quan trọng nào anh/chị muốn luôn được duy trì, rồi tính toán ngân sách phù hợp nhé",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi đang có nhiều khoản phải ưu tiên, mình sẽ muốn cân nhắc thật kỹ để dòng tiền vẫn thoải mái.",
+      "probe": "Trong các khoản chi hiện nay, khoản nào anh/chị bắt buộc phải duy trì và khoản nào có thể điều chỉnh nếu cần?",
+      "perspective": "ƯU TIÊN BẢO VỆ NHỮNG GÌ QUAN TRỌNG NHẤT\nKhi ngân sách có quá nhiều việc phải làm, mình không cần giải quyết mọi thứ cùng lúc. Quan trọng là cần xác định khoản nào sẽ bị ảnh hưởng nhiều nhất nếu nguồn thu nhập gặp biến động..",
+      "relate": "Sau khi tính toán đủ khoản tiền để chủ động trong chi tiêu, mình cùng xem những kế hoạch nào vẫn cần được duy trì ngay cả khi thu nhập có biến động nhé.",
+      "next_step": "“Mình cùng xem những kế hoạch quan trọng nào anh/chị muốn luôn được duy trì, rồi tính toán ngân sách phù hợp nhé"
+    },
+    "advisor": {
+      "task": "Xác định khoản chi ưu tiên và khả năng cân đối ngân sách.",
+      "expected_outcome": "TVV hiểu áp lực chi tiêu, thống nhất rà soát ngân sách và thời điểm phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng chi tiêu thiết yếu.",
+      "psychology": "Áp lực tài chính, muốn ngân sách ổn định.",
+      "level_reactions": {
+        "1": "Gia đình tôi có nhiều khoản cố định.",
+        "2": "Không muốn giảm sinh hoạt hoặc học phí con để đóng phí.",
+        "3": "Nếu ngân sách không còn dư, anh/chị có tiếp tục đề xuất bảo hiểm không?"
+      }
+    },
+    "observer": {
+      "focus": "Có xác định chi tiêu thiết yếu và không gây áp lực tham gia không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Gia đình có nhiều khoản chi thiết yếu, chưa rõ dư ngân sách.",
+      "context": "Áp lực tài chính, muốn ngân sách ổn định.",
+      "unlock": "Hỏi thứ tự ưu tiên và khoản có thể phân bổ an toàn.",
+      "levels": {
+        "1": "Gia đình tôi có nhiều khoản cố định.",
+        "2": "Không muốn giảm sinh hoạt hoặc học phí con để đóng phí.",
+        "3": "Nếu ngân sách không còn dư, anh/chị có tiếp tục đề xuất bảo hiểm không?"
+      },
+      "reveal": "Cần cân đối ngân sách, không vượt khả năng chi trả."
+    }
+  },
+  {
+    "card_id": "T06",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi muốn trả hết nợ đã rồi mới tính chuyện bảo hiểm.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T06 | THANH KHOẢN\n“Tôi muốn trả hết nợ đã rồi mới \ntính chuyện bảo hiểm.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T06",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Ưu tiên trả nợ trước là điều rất nhiều người lựa chọn để cảm thấy yên tâm hơn về mặt tài chính.\n2. HỎI ĐÚNG: Nếu thu nhập không còn, khoản vay này sẽ được tiếp tục thanh toán bằng nguồn nào?\n3. CHIA SẺ GÓC NHÌN: KHOẢN NỢ ĐI KÈM TRÁCH NHIỆM \nEm biết mục tiêu của anh/chị là trả hết nợ nần. Nhưng trước khi làm được điều đó, mình cũng cần tính trước nguồn tài chính để luôn chu toàn trách nhiệm này.\n4. LIÊN HỆ: “Sau khi giữ đủ thanh khoản, mình cần xác định trách nhiệm nào vẫn cần nguồn dự phòng riêng nếu thu nhập gián đoạn.”\n5. BƯỚC TIẾP THEO: “Mình lấy dư nợ hiện tại làm mốc và thử tính một mức bảo vệ tối thiểu không làm chậm kế hoạch trả nợ nhé?”",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Ưu tiên trả nợ trước là điều rất nhiều người lựa chọn để cảm thấy yên tâm hơn về mặt tài chính.",
+      "probe": "Nếu thu nhập không còn, khoản vay này sẽ được tiếp tục thanh toán bằng nguồn nào?",
+      "perspective": "KHOẢN NỢ ĐI KÈM TRÁCH NHIỆM \nEm biết mục tiêu của anh/chị là trả hết nợ nần. Nhưng trước khi làm được điều đó, mình cũng cần tính trước nguồn tài chính để luôn chu toàn trách nhiệm này.",
+      "relate": "“Sau khi giữ đủ thanh khoản, mình cần xác định trách nhiệm nào vẫn cần nguồn dự phòng riêng nếu thu nhập gián đoạn.”",
+      "next_step": "“Mình lấy dư nợ hiện tại làm mốc và thử tính một mức bảo vệ tối thiểu không làm chậm kế hoạch trả nợ nhé?”"
+    },
+    "advisor": {
+      "task": "Làm rõ nghĩa vụ trả nợ và bảo vệ nguồn trả nợ.",
+      "expected_outcome": "TVV hiểu ưu tiên trả nợ, thống nhất rà soát nghĩa vụ và mức bảo vệ cần thiết."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng làm chậm tiến độ trả nợ.",
+      "psychology": "Cẩn trọng, ưu tiên giảm áp lực.",
+      "level_reactions": {
+        "1": "Tôi muốn tập trung trả hết khoản vay.",
+        "2": "Đóng thêm bảo hiểm sẽ chậm trả nợ.",
+        "3": "Nếu khoản vay đã có bảo hiểm dư nợ, có cần bảo vệ thêm không?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ dư nợ, nguồn trả nợ, bảo hiểm hiện có và khả năng đóng phí không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đang ưu tiên trả nợ và lãi; sợ thêm gánh nặng.",
+      "context": "Cẩn trọng, ưu tiên giảm áp lực.",
+      "unlock": "Hỏi nghĩa vụ trả nợ và dòng tiền còn lại.",
+      "levels": {
+        "1": "Tôi muốn tập trung trả hết khoản vay.",
+        "2": "Đóng thêm bảo hiểm sẽ chậm trả nợ.",
+        "3": "Nếu khoản vay đã có bảo hiểm dư nợ, có cần bảo vệ thêm không?"
+      },
+      "reveal": "Cần giảm nợ trước khi tăng cam kết."
+    }
+  },
+  {
+    "card_id": "T07",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi còn phải dành tiền lo cho bố mẹ, chưa thể nghĩ cho riêng mình.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T07 | THANH KHOẢN\n“Tôi còn phải dành tiền lo cho bố mẹ, \nchưa thể nghĩ cho riêng mình.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T07",
+    "back_raw": "1. GHI NHẬN: Em thấy anh/chị là người con hiếu thảo và trách nhiệm với bố mẹ\n2. HỎI ĐÚNG: Nếu một ngày anh/chị không còn là người chu cấp chính bố mẹ sẽ dựa vào nguồn nào?”\n3. CHIA SẺ GÓC NHÌN: BẢO VỆ NGƯỜI CHĂM LO BỐ MẸ: Chăm sóc bố mẹ là trách nhiệm dài hạn. Vì vậy, cần bảo vệ nguồn tài chính giúp anh/chị thực hiện trách nhiệm đó.\n4. LIÊN HỆ: Với bố mẹ, việc chăm lo phải kéo dài nhiều năm chứ không phải ngày một ngày hai\n5. BƯỚC TIẾP THEO: Mình xác định khoản chu cấp hàng tháng dành cho bố mẹ và xem cách duy trì khoản đó lâu dài nhé",
+    "original_five_steps": {
+      "acknowledge": "Em thấy anh/chị là người con hiếu thảo và trách nhiệm với bố mẹ",
+      "probe": "Nếu một ngày anh/chị không còn là người chu cấp chính bố mẹ sẽ dựa vào nguồn nào?”",
+      "perspective": "BẢO VỆ NGƯỜI CHĂM LO BỐ MẸ: Chăm sóc bố mẹ là trách nhiệm dài hạn. Vì vậy, cần bảo vệ nguồn tài chính giúp anh/chị thực hiện trách nhiệm đó.",
+      "relate": "Với bố mẹ, việc chăm lo phải kéo dài nhiều năm chứ không phải ngày một ngày hai",
+      "next_step": "Mình xác định khoản chu cấp hàng tháng dành cho bố mẹ và xem cách duy trì khoản đó lâu dài nhé"
+    },
+    "advisor": {
+      "task": "Làm rõ trách nhiệm chu cấp bố mẹ và bảo vệ nguồn tiền.",
+      "expected_outcome": "TVV hiểu trách nhiệm chu cấp, thống nhất rà soát nguồn tài chính duy trì trách nhiệm."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng khoản chu cấp bố mẹ.",
+      "psychology": "Có trách nhiệm, ưu tiên gia đình.",
+      "level_reactions": {
+        "1": "Mỗi tháng tôi gửi tiền cho bố mẹ.",
+        "2": "Bố mẹ phụ thuộc khoản chu cấp, tôi không muốn giảm.",
+        "3": "Nếu thu nhập bị gián đoạn, ai tiếp tục chu cấp bố mẹ?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ khoản chu cấp, thời gian phụ thuộc và khả năng đóng phí không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đang chu cấp bố mẹ; sợ giảm khoản hỗ trợ hàng tháng.",
+      "context": "Có trách nhiệm, ưu tiên gia đình.",
+      "unlock": "Ghi nhận trách nhiệm; hỏi kế hoạch duy trì hỗ trợ nếu biến cố.",
+      "levels": {
+        "1": "Mỗi tháng tôi gửi tiền cho bố mẹ.",
+        "2": "Bố mẹ phụ thuộc khoản chu cấp, tôi không muốn giảm.",
+        "3": "Nếu thu nhập bị gián đoạn, ai tiếp tục chu cấp bố mẹ?"
+      },
+      "reveal": "Muốn bảo vệ trách nhiệm chăm sóc bố mẹ."
+    }
+  },
+  {
+    "card_id": "T08",
+    "category": "THANH KHOẢN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi sợ đang đóng phí BH rồi lại cần tiền gấp, lúc đó xoay không kịp.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "T08 | THANH KHOẢN\n“Tôi sợ đang đóng phí BH \nrồi lại cần tiền gấp, lúc đó xoay không kịp.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: T08",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Giữ nguồn tiền sẵn sàng cho những việc cấp thiết luôn là ưu tiên\n2. HỎI ĐÚNG: Hiện anh/chị đã có quỹ dự phòng rồi chứ?  cho bao nhiêu tháng chi tiêu ạ?\n3. CHIA SẺ GÓC NHÌN: HAI NGUỒN TIỀN, HAI MỤC ĐÍCH\nTiền mặt giúp mình xử lý nhu cầu trước mắt. Bảo hiểm giúp những trách nhiệm dài hạn không bị gián đoạn.\n4. LIÊN HỆ: Giữ tiền cho việc gấp đương nhiên là cần thiết. Ngoài ra mình cũng cần xác định những khoản chi không được phép dừng lại.\n5. BƯỚC TIẾP THEO: Mình cùng xem những khoản chi đó sẽ được duy trì thế nào nếu thu nhập không còn như hiện nay nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Giữ nguồn tiền sẵn sàng cho những việc cấp thiết luôn là ưu tiên",
+      "probe": "Hiện anh/chị đã có quỹ dự phòng rồi chứ?  cho bao nhiêu tháng chi tiêu ạ?",
+      "perspective": "HAI NGUỒN TIỀN, HAI MỤC ĐÍCH\nTiền mặt giúp mình xử lý nhu cầu trước mắt. Bảo hiểm giúp những trách nhiệm dài hạn không bị gián đoạn.",
+      "relate": "Giữ tiền cho việc gấp đương nhiên là cần thiết. Ngoài ra mình cũng cần xác định những khoản chi không được phép dừng lại.",
+      "next_step": "Mình cùng xem những khoản chi đó sẽ được duy trì thế nào nếu thu nhập không còn như hiện nay nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ quỹ dự phòng khẩn cấp và khả năng duy trì đóng phí.",
+      "expected_outcome": "TVV hiểu nhu cầu dự phòng khẩn cấp, thống nhất phương án tài chính phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Sợ thiếu tiền khi chi phí ngoài dự kiến phát sinh.",
+      "psychology": "Lo lắng, ưu tiên linh hoạt tài chính.",
+      "level_reactions": {
+        "1": "Tôi muốn có tiền sẵn cho việc khẩn cấp.",
+        "2": "Nếu dùng quỹ dự phòng để đóng phí, sẽ thiếu tiền khi cần.",
+        "3": "Có thể rút tiền hoặc tạm ngừng đóng phí nếu cần tiền gấp không?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ dự phòng và quyền rút tiền, đóng phí đúng điều khoản không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Lo phát sinh nhu cầu tiền gấp khi đang đóng phí.",
+      "context": "Lo lắng, ưu tiên linh hoạt tài chính.",
+      "unlock": "Hỏi dự phòng, tình huống khẩn cấp và giới hạn hợp đồng.",
+      "levels": {
+        "1": "Tôi muốn có tiền sẵn cho việc khẩn cấp.",
+        "2": "Nếu dùng quỹ dự phòng để đóng phí, sẽ thiếu tiền khi cần.",
+        "3": "Có thể rút tiền hoặc tạm ngừng đóng phí nếu cần tiền gấp không?"
+      },
+      "reveal": "Cần quyền chủ động khi có nhu cầu tiền gấp."
+    }
+  },
+  {
+    "card_id": "D01",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Ừ, để tôi suy nghĩ thêm rồi báo em sau nhé.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D01 | THỜI ĐIỂM\n“Ừ, để tôi suy nghĩ thêm rồi báo em sau nhé.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D01",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.\n2. HỎI ĐÚNG: Dạ được. Phần nào anh/chị muốn cân nhắc kỹ nhất ạ: giá trị, ngân sách, niềm tin hay hay cần trao đổi với ai khác?\n3. CHIA SẺ GÓC NHÌN: Em cho rằng điều anh/chị cần thêm không phải là thời gian đâu. \nCó thể anh/chị chỉ đang cần làm rõ một điều gì đó trước khi quyết định. Nếu anh/chị đồng ý, mình cùng xem đó là điều gì nhé.\n4. LIÊN HỆ: Nếu mình cần thêm thời gian cũng không sao ạ. Điều em quan tâm là những ưu tiên quan trọng của anh/chị vẫn đang được chuẩn bị đúng đắn\n5. BƯỚC TIẾP THEO: Anh/chị cho em cơ hội làm rõ phần còn băn khoăn nhất trước. Sau đó mình cùng xem đây đã là thời điểm phù hợp chưa nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.",
+      "probe": "Dạ được. Phần nào anh/chị muốn cân nhắc kỹ nhất ạ: giá trị, ngân sách, niềm tin hay hay cần trao đổi với ai khác?",
+      "perspective": "Em cho rằng điều anh/chị cần thêm không phải là thời gian đâu. \nCó thể anh/chị chỉ đang cần làm rõ một điều gì đó trước khi quyết định. Nếu anh/chị đồng ý, mình cùng xem đó là điều gì nhé.",
+      "relate": "Nếu mình cần thêm thời gian cũng không sao ạ. Điều em quan tâm là những ưu tiên quan trọng của anh/chị vẫn đang được chuẩn bị đúng đắn",
+      "next_step": "Anh/chị cho em cơ hội làm rõ phần còn băn khoăn nhất trước. Sau đó mình cùng xem đây đã là thời điểm phù hợp chưa nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ nội dung KH còn băn khoăn và điều kiện để quyết định.",
+      "expected_outcome": "TVV xác định phần cần cân nhắc, thống nhất làm rõ hoặc thời điểm trao đổi tiếp."
+    },
+    "customer": {
+      "hidden_concern": "Chưa đủ cơ sở quyết định; muốn thêm thời gian.",
+      "psychology": "Lưỡng lự, ngại từ chối trực tiếp.",
+      "level_reactions": {
+        "1": "Tôi muốn xem lại quyền lợi và phí đóng.",
+        "2": "Tôi còn điều chưa rõ nhưng chưa biết nên hỏi gì.",
+        "3": "Nếu chưa sẵn sàng, tại sao phải tiếp tục trao đổi hôm nay?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ nguyên nhân trì hoãn, tôn trọng quyết định, không thúc ép không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Chưa đủ thông tin hoặc chưa rõ điều cần cân nhắc.",
+      "context": "Lưỡng lự, ngại từ chối trực tiếp.",
+      "unlock": "Hỏi điểm còn băn khoăn, không thúc giục quyết định.",
+      "levels": {
+        "1": "Tôi muốn xem lại quyền lợi và phí đóng.",
+        "2": "Tôi còn điều chưa rõ nhưng chưa biết nên hỏi gì.",
+        "3": "Nếu chưa sẵn sàng, tại sao phải tiếp tục trao đổi hôm nay?"
+      },
+      "reveal": "Cần thêm cơ sở quyết định, không nhất thiết từ chối."
+    }
+  },
+  {
+    "card_id": "D02",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Chưa cần vội đâu, khi nào cần rồi tính.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D02 | THỜI ĐIỂM\n“Chưa cần vội đâu, khi nào cần rồi tính.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D02",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.\n2. HỎI ĐÚNG: Nếu chưa phải bây giờ, theo anh/chị khi nào sẽ là thời điểm phù hợp hơn?\n3. CHIA SẺ GÓC NHÌN: KHI NÀO CẦN MỚI TÍNH?\nMình có thể chuẩn bị từ hôm nay hoặc đợi đến thời điểm phù hợp hơn. Quan trọng là hiểu rõ sự khác biệt giữa hai lựa chọn đó\n4. LIÊN HỆ: Có một điểm anh/chị nên cân nhắc là bảo hiểm chỉ tham gia khi mình chưa cần. Và cùng một mức bảo vệ, bắt đầu sớm thường sẽ thuận lợi hơn về điều kiện và chi phí.\n5. BƯỚC TIẾP THEO: Vậy mình xem mức chuẩn bị nào phù hợp ngay hôm nay, thay vì chờ đến khi cần mới bắt đầu nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.",
+      "probe": "Nếu chưa phải bây giờ, theo anh/chị khi nào sẽ là thời điểm phù hợp hơn?",
+      "perspective": "KHI NÀO CẦN MỚI TÍNH?\nMình có thể chuẩn bị từ hôm nay hoặc đợi đến thời điểm phù hợp hơn. Quan trọng là hiểu rõ sự khác biệt giữa hai lựa chọn đó",
+      "relate": "Có một điểm anh/chị nên cân nhắc là bảo hiểm chỉ tham gia khi mình chưa cần. Và cùng một mức bảo vệ, bắt đầu sớm thường sẽ thuận lợi hơn về điều kiện và chi phí.",
+      "next_step": "Vậy mình xem mức chuẩn bị nào phù hợp ngay hôm nay, thay vì chờ đến khi cần mới bắt đầu nhé?"
+    },
+    "advisor": {
+      "task": "Khám phá nhận thức về thời điểm bảo vệ và điều kiện tham gia.",
+      "expected_outcome": "TVV giúp KH nhận diện nhu cầu, thống nhất xem xét thời điểm phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Chưa thấy nhu cầu bảo vệ cấp thiết.",
+      "psychology": "Chủ quan, ưu tiên hiện tại.",
+      "level_reactions": {
+        "1": "Hiện tôi khỏe mạnh, tài chính ổn.",
+        "2": "Tôi nghĩ lúc sức khỏe có vấn đề mới cần bảo hiểm.",
+        "3": "Nếu vài năm nữa mới tham gia, phí đóng và điều kiện có thay đổi không?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích điều kiện, phí và thời điểm bảo vệ đúng, không gây lo sợ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Chưa thấy bảo hiểm cần thiết khi mọi việc đang ổn.",
+      "context": "Chủ quan, ưu tiên hiện tại.",
+      "unlock": "Hỏi trách nhiệm tài chính và phương án nếu biến cố.",
+      "levels": {
+        "1": "Hiện tôi khỏe mạnh, tài chính ổn.",
+        "2": "Tôi nghĩ lúc sức khỏe có vấn đề mới cần bảo hiểm.",
+        "3": "Nếu vài năm nữa mới tham gia, phí đóng và điều kiện có thay đổi không?"
+      },
+      "reveal": "Chưa nhận diện nhu cầu bảo vệ hiện tại."
+    }
+  },
+  {
+    "card_id": "D03",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Để sang năm tài chính thoải mái hơn rồi tính.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D03 | THỜI ĐIỂM\n“Để sang năm tài chính\n thoải mái hơn rồi tính.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.\n2. HỎI ĐÚNG: Sang năm anh/chị kỳ vọng thu nhập sẽ thay đổi như thế nào, khoản chi hoặc trách nhiệm có tăng theo không ạ?\n3. CHIA SẺ GÓC NHÌN: Nếu anh/chị đợi đến sang năm, thì theo em cũng nên xác định rõ điều gì cần thay đổi và những ưu tiên nào vẫn cần được duy trì đến thời điểm đó\n4. LIÊN HỆ: Có một điểm anh/chị nên cân nhắc là bảo hiểm chỉ tham gia khi mình chưa cần. Và cùng một mức bảo vệ, bắt đầu sớm thường sẽ thuận lợi hơn về điều kiện và chi phí\n5. BƯỚC TIẾP THEO: Vậy mình cùng xem mức phù hợp với khả năng hiện tại của anh/chị, thay vì đợi đến sang năm nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.",
+      "probe": "Sang năm anh/chị kỳ vọng thu nhập sẽ thay đổi như thế nào, khoản chi hoặc trách nhiệm có tăng theo không ạ?",
+      "perspective": "Nếu anh/chị đợi đến sang năm, thì theo em cũng nên xác định rõ điều gì cần thay đổi và những ưu tiên nào vẫn cần được duy trì đến thời điểm đó",
+      "relate": "Có một điểm anh/chị nên cân nhắc là bảo hiểm chỉ tham gia khi mình chưa cần. Và cùng một mức bảo vệ, bắt đầu sớm thường sẽ thuận lợi hơn về điều kiện và chi phí",
+      "next_step": "Vậy mình cùng xem mức phù hợp với khả năng hiện tại của anh/chị, thay vì đợi đến sang năm nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ thay đổi tài chính kỳ vọng và khả năng đóng phí hiện tại.",
+      "expected_outcome": "TVV hiểu lý do trì hoãn, thống nhất mức phù hợp hoặc tiêu chí xem lại."
+    },
+    "customer": {
+      "hidden_concern": "Chưa tự tin duy trì đóng phí.",
+      "psychology": "Thận trọng, kỳ vọng thu nhập cải thiện.",
+      "level_reactions": {
+        "1": "Tôi hy vọng năm sau thu nhập tốt hơn.",
+        "2": "Hiện vẫn có những khoản chi ưu tiên.",
+        "3": "Nếu năm sau thu nhập không tăng, tôi có nên trì hoãn tiếp không?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ thu nhập, chi tiêu và khả năng đóng phí; không đề xuất phí vượt khả năng không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Kỳ vọng sang năm tài chính tốt hơn nhưng chưa có kế hoạch chắc chắn.",
+      "context": "Thận trọng, kỳ vọng thu nhập cải thiện.",
+      "unlock": "Hỏi điều sẽ thay đổi và điều kiện để sẵn sàng.",
+      "levels": {
+        "1": "Tôi hy vọng năm sau thu nhập tốt hơn.",
+        "2": "Hiện vẫn có những khoản chi ưu tiên.",
+        "3": "Nếu năm sau thu nhập không tăng, tôi có nên trì hoãn tiếp không?"
+      },
+      "reveal": "Cần chắc chắn về khả năng duy trì phí."
+    }
+  },
+  {
+    "card_id": "D04",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Dạo này tôi bận lắm, không có thời gian xem thêm đâu.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D04 | THỜI ĐIỂM\n“Dạo này tôi bận lắm, không có thời gian xem thêm đâu.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D04",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”\n2. HỎI ĐÚNG: “Anh/chị thấy chưa đúng lúc, hay cuộc trao đổi chưa đủ liên quan để dành thêm thời gian?”\n3. CHIA SẺ GÓC NHÌN: “15 PHÚT, BA CÂU HỎI”: Khi khách hàng bận, rút gọn cuộc trao đổi còn nhu cầu, khoảng trống và bước tiếp theo. Không kéo dài thêm một bài thuyết trình.\n4. LIÊN HỆ: “Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”\n5. BƯỚC TIẾP THEO: “Mình đặt một cuộc hẹn 15 phút, chỉ chốt nhu cầu, khoảng trống và bước tiếp theo nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”",
+      "probe": "“Anh/chị thấy chưa đúng lúc, hay cuộc trao đổi chưa đủ liên quan để dành thêm thời gian?”",
+      "perspective": "“15 PHÚT, BA CÂU HỎI”: Khi khách hàng bận, rút gọn cuộc trao đổi còn nhu cầu, khoảng trống và bước tiếp theo. Không kéo dài thêm một bài thuyết trình.",
+      "relate": "“Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”",
+      "next_step": "“Mình đặt một cuộc hẹn 15 phút, chỉ chốt nhu cầu, khoảng trống và bước tiếp theo nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM"
+    },
+    "advisor": {
+      "task": "Xác định KH thiếu thời gian hay thấy tư vấn chưa liên quan.",
+      "expected_outcome": "TVV hiểu trở ngại thời gian, thống nhất nội dung và thời điểm tiếp theo."
+    },
+    "customer": {
+      "hidden_concern": "Chưa thấy cuộc trao đổi đủ quan trọng.",
+      "psychology": "Bận, thiếu kiên nhẫn.",
+      "level_reactions": {
+        "1": "Tôi chỉ có khoảng 10 phút.",
+        "2": "Tôi không muốn nghe giới thiệu dài.",
+        "3": "Trong 30 giây em nói được điều gì thực sự liên quan đến tôi?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng thời gian, xác định nhu cầu trọng tâm và đề xuất lịch ngắn không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Quá bận và chưa thấy tìm hiểu bảo hiểm đáng ưu tiên.",
+      "context": "Bận, thiếu kiên nhẫn.",
+      "unlock": "Hỏi thời điểm thuận tiện, đề xuất trao đổi ngắn có giá trị.",
+      "levels": {
+        "1": "Tôi chỉ có khoảng 10 phút.",
+        "2": "Tôi không muốn nghe giới thiệu dài.",
+        "3": "Trong 30 giây em nói được điều gì thực sự liên quan đến tôi?"
+      },
+      "reveal": "Chưa thấy đủ giá trị để dành thời gian."
+    }
+  },
+  {
+    "card_id": "D05",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Khi nào dư dả hơn tôi mới mua, giờ còn nhiều việc phải lo.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D05 | THỜI ĐIỂM\n“Khi nào dư dả hơn tôi mới mua, giờ còn nhiều việc phải lo.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D05",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”\n2. HỎI ĐÚNG: “Mức thu nhập hoặc quỹ dự phòng bao nhiêu thì anh/chị xem là đủ để bắt đầu?”\n3. CHIA SẺ GÓC NHÌN: “TRÁCH NHIỆM ĐẾN TRƯỚC CẢM GIÁC DƯ DẢ”: Không cần bắt đầu lớn. Xác định mức bảo vệ nhỏ nhưng bền vững hoặc một điều kiện rõ ràng để xem lại.\n4. LIÊN HỆ: “Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”\n5. BƯỚC TIẾP THEO: “Mình xác định một mức không gây áp lực; nếu chưa có, mình thống nhất tiêu chí và ngày xem lại nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”",
+      "probe": "“Mức thu nhập hoặc quỹ dự phòng bao nhiêu thì anh/chị xem là đủ để bắt đầu?”",
+      "perspective": "“TRÁCH NHIỆM ĐẾN TRƯỚC CẢM GIÁC DƯ DẢ”: Không cần bắt đầu lớn. Xác định mức bảo vệ nhỏ nhưng bền vững hoặc một điều kiện rõ ràng để xem lại.",
+      "relate": "“Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”",
+      "next_step": "“Mình xác định một mức không gây áp lực; nếu chưa có, mình thống nhất tiêu chí và ngày xem lại nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM"
+    },
+    "advisor": {
+      "task": "Làm rõ tiêu chí dư dả và cân đối ngân sách.",
+      "expected_outcome": "TVV xác định điều kiện tài chính KH mong muốn, thống nhất mức hoặc mốc xem lại."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng trách nhiệm tài chính hiện tại.",
+      "psychology": "Thận trọng, chưa rõ mức dự phòng an tâm.",
+      "level_reactions": {
+        "1": "Tôi còn nhiều khoản phải chi.",
+        "2": "Không biết bao nhiêu tiền dự phòng mới đủ bắt đầu.",
+        "3": "Nếu không dư sau chi thiết yếu, em vẫn khuyên tôi tham gia không?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ ngân sách, dự phòng và tôn trọng KH chưa đủ khả năng đóng phí không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Chỉ muốn tham gia khi có tiền dư sau các khoản chi.",
+      "context": "Thận trọng, chưa rõ mức dự phòng an tâm.",
+      "unlock": "Hỏi mức ngân sách bền vững và thứ tự ưu tiên.",
+      "levels": {
+        "1": "Tôi còn nhiều khoản phải chi.",
+        "2": "Không biết bao nhiêu tiền dự phòng mới đủ bắt đầu.",
+        "3": "Nếu không dư sau chi thiết yếu, em vẫn khuyên tôi tham gia không?"
+      },
+      "reveal": "Cần cân đối trách nhiệm trước khi phân bổ cho bảo hiểm."
+    }
+  },
+  {
+    "card_id": "D06",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Đợi con lớn hơn một chút rồi tôi tính, giờ nhiều khoản cho con quá.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D06 | THỜI ĐIỂM\n“Đợi con lớn hơn một chút rồi tôi tính, giờ nhiều khoản cho con quá.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D06",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”\n2. HỎI ĐÚNG: “Trong những năm con còn phụ thuộc, nếu thu nhập dừng thì ai tiếp tục các khoản chăm sóc và học hành?”\n3. CHIA SẺ GÓC NHÌN: “CON CÀNG NHỎ, THỜI GIAN PHỤ THUỘC CÀNG DÀI”: Giai đoạn chi phí cao cũng là giai đoạn con phụ thuộc nhiều nhất vào thu nhập của cha mẹ.\n4. LIÊN HỆ: “Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”\n5. BƯỚC TIẾP THEO: “Em tính thử mức bảo vệ tối thiểu theo số năm con còn phụ thuộc để anh/chị xem nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”",
+      "probe": "“Trong những năm con còn phụ thuộc, nếu thu nhập dừng thì ai tiếp tục các khoản chăm sóc và học hành?”",
+      "perspective": "“CON CÀNG NHỎ, THỜI GIAN PHỤ THUỘC CÀNG DÀI”: Giai đoạn chi phí cao cũng là giai đoạn con phụ thuộc nhiều nhất vào thu nhập của cha mẹ.",
+      "relate": "“Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”",
+      "next_step": "“Em tính thử mức bảo vệ tối thiểu theo số năm con còn phụ thuộc để anh/chị xem nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM"
+    },
+    "advisor": {
+      "task": "Làm rõ trách nhiệm tài chính với con và bảo vệ nguồn thu nhập.",
+      "expected_outcome": "TVV hiểu ưu tiên cho con, thống nhất rà soát nhu cầu bảo vệ và ngân sách."
+    },
+    "customer": {
+      "hidden_concern": "Sợ phí đóng ảnh hưởng chi phí nuôi dạy con.",
+      "psychology": "Quan tâm gia đình, ưu tiên nhu cầu của con.",
+      "level_reactions": {
+        "1": "Con tôi còn nhỏ, chi phí chăm sóc nhiều.",
+        "2": "Tôi muốn ưu tiên tiền học và sinh hoạt con.",
+        "3": "Nếu đóng phí phải giảm ngân sách học tập của con thì có hợp lý không?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ thời gian con phụ thuộc và không ảnh hưởng chi thiết yếu không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Đang ưu tiên chi phí nuôi con, kỳ vọng sau này bớt áp lực.",
+      "context": "Quan tâm gia đình, ưu tiên nhu cầu của con.",
+      "unlock": "Hỏi kế hoạch tài chính cho con và rủi ro gián đoạn.",
+      "levels": {
+        "1": "Con tôi còn nhỏ, chi phí chăm sóc nhiều.",
+        "2": "Tôi muốn ưu tiên tiền học và sinh hoạt con.",
+        "3": "Nếu đóng phí phải giảm ngân sách học tập của con thì có hợp lý không?"
+      },
+      "reveal": "Cần bảo vệ mục tiêu của con mà không tạo áp lực."
+    }
+  },
+  {
+    "card_id": "D07",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Công việc tôi chưa ổn định, để mọi thứ chắc chắn hơn rồi hãy tính.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D07 | THỜI ĐIỂM\n“Công việc tôi chưa ổn định, để mọi thứ chắc chắn hơn rồi hãy tính.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D07",
+    "back_raw": "1. GHI NHẬN: “Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”\n2. HỎI ĐÚNG: “Dấu hiệu nào cho thấy công việc đã ổn định: qua thử việc, mức thu nhập hay quỹ dự phòng?”\n3. CHIA SẺ GÓC NHÌN: “ỔN ĐỊNH PHẢI ĐO ĐƯỢC”: Thay cảm giác ổn định bằng tiêu chí cụ thể như qua thử việc, quỹ dự phòng hoặc mức thu nhập tối thiểu.\n4. LIÊN HỆ: “Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”\n5. BƯỚC TIẾP THEO: “Mình chọn một tiêu chí ổn định đo được và đặt lịch rà soát ngay khi tiêu chí đó đạt nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.”",
+      "probe": "“Dấu hiệu nào cho thấy công việc đã ổn định: qua thử việc, mức thu nhập hay quỹ dự phòng?”",
+      "perspective": "“ỔN ĐỊNH PHẢI ĐO ĐƯỢC”: Thay cảm giác ổn định bằng tiêu chí cụ thể như qua thử việc, quỹ dự phòng hoặc mức thu nhập tối thiểu.",
+      "relate": "“Trong thời gian chờ, mình cần nhìn rõ khoảng trống nào đang tồn tại và mốc nào sẽ xem lại.”",
+      "next_step": "“Mình chọn một tiêu chí ổn định đo được và đặt lịch rà soát ngay khi tiêu chí đó đạt nhé?”\nMỐI QUAN TÂM GỐC: THỜI ĐIỂM"
+    },
+    "advisor": {
+      "task": "Xác định tiêu chí ổn định công việc và khả năng đóng phí.",
+      "expected_outcome": "TVV hiểu lo ngại công việc, thống nhất tiêu chí tài chính và thời điểm rà soát."
+    },
+    "customer": {
+      "hidden_concern": "Sợ mất việc hoặc giảm thu nhập, không duy trì phí.",
+      "psychology": "Lo lắng, cần sự chắc chắn.",
+      "level_reactions": {
+        "1": "Tôi vừa chuyển việc mới.",
+        "2": "Chưa biết thu nhập các tháng tới ổn định không.",
+        "3": "Nếu mất việc sau khi tham gia, có thể tạm ngừng đóng phí và hợp đồng ra sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có tiêu chí ổn định, giải thích đúng điều khoản và không cam kết sai không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Công việc và thu nhập chưa chắc chắn; lo mất việc.",
+      "context": "Lo lắng, cần sự chắc chắn.",
+      "unlock": "Hỏi quỹ dự phòng và kịch bản thu nhập giảm.",
+      "levels": {
+        "1": "Tôi vừa chuyển việc mới.",
+        "2": "Chưa biết thu nhập các tháng tới ổn định không.",
+        "3": "Nếu mất việc sau khi tham gia, có thể tạm ngừng đóng phí và hợp đồng ra sao?"
+      },
+      "reveal": "Cần bảo đảm khả năng duy trì trong bất định."
+    }
+  },
+  {
+    "card_id": "D08",
+    "category": "THỜI ĐIỂM",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi muốn chờ xem thị trường và lãi suất thế nào rồi mới quyết.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "D08 | THỜI ĐIỂM\n“Tôi muốn chờ xem thị trường và lãi suất \nthế nào rồi mới quyết.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: D08",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.\n2. HỎI ĐÚNG: Yếu tố thị trường nào sẽ thay đổi nhu cầu bảo vệ gia đình của anh/chị?\n3. CHIA SẺ GÓC NHÌN: Thị trường hay lãi suất có thể ảnh hưởng đến lợi nhuận đầu tư. Nhưng những người mình yêu thương và những trách nhiệm mình đang gánh vác thường không thay đổi theo đó.\n4. LIÊN HỆ: Nếu anh/chị muốn chờ thêm để ra quyết định đầu tư thì hoàn toàn hợp lý. Nhưng mình cũng nên xem những trách nhiệm hiện tại có cần được bảo vệ ngay từ bây giờ hay không.\n5. BƯỚC TIẾP THEO: Mình tách riêng phần đầu tư và phần bảo vệ nhé. Phần nào cần chờ thị trường thì mình chờ, còn phần nào liên quan đến trách nhiệm hiện tại thì mình xem theo nhu cầu hôm nay",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị không cần quyết định khi chưa thấy đây là thời điểm phù hợp.",
+      "probe": "Yếu tố thị trường nào sẽ thay đổi nhu cầu bảo vệ gia đình của anh/chị?",
+      "perspective": "Thị trường hay lãi suất có thể ảnh hưởng đến lợi nhuận đầu tư. Nhưng những người mình yêu thương và những trách nhiệm mình đang gánh vác thường không thay đổi theo đó.",
+      "relate": "Nếu anh/chị muốn chờ thêm để ra quyết định đầu tư thì hoàn toàn hợp lý. Nhưng mình cũng nên xem những trách nhiệm hiện tại có cần được bảo vệ ngay từ bây giờ hay không.",
+      "next_step": "Mình tách riêng phần đầu tư và phần bảo vệ nhé. Phần nào cần chờ thị trường thì mình chờ, còn phần nào liên quan đến trách nhiệm hiện tại thì mình xem theo nhu cầu hôm nay"
+    },
+    "advisor": {
+      "task": "Phân biệt quyết định đầu tư và nhu cầu bảo vệ.",
+      "expected_outcome": "TVV hiểu lý do chờ đợi, thống nhất rà soát riêng hai mục tiêu."
+    },
+    "customer": {
+      "hidden_concern": "Lo chọn sai thời điểm phân bổ tài chính.",
+      "psychology": "Thận trọng, theo dõi thị trường.",
+      "level_reactions": {
+        "1": "Tôi đang chờ lãi suất ổn hơn.",
+        "2": "Muốn so sánh gửi tiết kiệm, đầu tư và bảo hiểm.",
+        "3": "Nếu lợi nhuận đầu tư biến động, tại sao cần quyết định bảo vệ ngay?"
+      }
+    },
+    "observer": {
+      "focus": "Có tách mục tiêu đầu tư và bảo vệ, tránh cam kết lợi nhuận không căn cứ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Muốn chờ lãi suất, thị trường; sợ bỏ lỡ cơ hội khác.",
+      "context": "Thận trọng, theo dõi thị trường.",
+      "unlock": "Hỏi tiêu chí quyết định; phân biệt bảo vệ và đầu tư.",
+      "levels": {
+        "1": "Tôi đang chờ lãi suất ổn hơn.",
+        "2": "Muốn so sánh gửi tiết kiệm, đầu tư và bảo hiểm.",
+        "3": "Nếu lợi nhuận đầu tư biến động, tại sao cần quyết định bảo vệ ngay?"
+      },
+      "reveal": "Cần chủ động thời điểm phân bổ tài chính."
+    }
+  },
+  {
+    "card_id": "Q01",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi sợ tiền bỏ vào rồi bị khóa, lúc cần lại không lấy ra được.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q01 | QUYỀN KIỂM SOÁT\n“Tôi sợ tiền bỏ vào rồi bị khóa, \nlúc cần lại không lấy ra được.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q01",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị muốn luôn giữ quyền chủ động với đồng tiền của mình\n2. HỎI ĐÚNG: Anh/chị muốn luôn có sẵn bao nhiêu tiền và đang lo tình huống nào cần đến khoản đó nhất?\n3. CHIA SẺ GÓC NHÌN: Theo các chuyên gia tài chính, ai cũng nên có hai túi tiền: một túi cho nhu cầu ngắn hạn cần sự linh hoạt và một túi cho mục tiêu dài hạn cần sự cam kết. \n4. LIÊN HỆ: Quan trọng không phải là tiền có bị khóa không, mà là anh/chị hiểu rõ mình được quyền gì, có những lựa chọn nào và luôn là người quyết định cuối cùng\n5. BƯỚC TIẾP THEO: Mình kiểm tra rõ các quyền và lựa chọn hiện có, rồi anh/chị quyết định mức nào phù hợp nhất nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị muốn luôn giữ quyền chủ động với đồng tiền của mình",
+      "probe": "Anh/chị muốn luôn có sẵn bao nhiêu tiền và đang lo tình huống nào cần đến khoản đó nhất?",
+      "perspective": "Theo các chuyên gia tài chính, ai cũng nên có hai túi tiền: một túi cho nhu cầu ngắn hạn cần sự linh hoạt và một túi cho mục tiêu dài hạn cần sự cam kết.",
+      "relate": "Quan trọng không phải là tiền có bị khóa không, mà là anh/chị hiểu rõ mình được quyền gì, có những lựa chọn nào và luôn là người quyết định cuối cùng",
+      "next_step": "Mình kiểm tra rõ các quyền và lựa chọn hiện có, rồi anh/chị quyết định mức nào phù hợp nhất nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ nhu cầu sử dụng tiền và quyền tiếp cận giá trị hợp đồng.",
+      "expected_outcome": "TVV hiểu nhu cầu chủ động tài chính, thống nhất kiểm tra quyền sử dụng giá trị hợp đồng."
+    },
+    "customer": {
+      "hidden_concern": "Sợ mất quyền chủ động sử dụng tiền.",
+      "psychology": "Thận trọng, đề cao thanh khoản.",
+      "level_reactions": {
+        "1": "Tôi muốn có tiền sẵn khi cần.",
+        "2": "Tôi sợ đóng phí rồi không rút được lúc cần gấp.",
+        "3": "Rút tiền hoặc chấm dứt trước hạn thì giá trị hoàn lại và quyền lợi bị ảnh hưởng thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ thanh khoản, quyền rút tiền và giá trị hoàn lại theo hợp đồng không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ tiền bị khóa, mất khả năng dùng khi cần.",
+      "context": "Thận trọng, đề cao thanh khoản.",
+      "unlock": "Hỏi nhu cầu thanh khoản; giải thích rút tiền và tác động.",
+      "levels": {
+        "1": "Tôi muốn có tiền sẵn khi cần.",
+        "2": "Tôi sợ đóng phí rồi không rút được lúc cần gấp.",
+        "3": "Rút tiền hoặc chấm dứt trước hạn thì giá trị hoàn lại và quyền lợi bị ảnh hưởng thế nào?"
+      },
+      "reveal": "Cần quyền chủ động và hiểu giới hạn sử dụng tiền."
+    }
+  },
+  {
+    "card_id": "Q02",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Nếu vài năm nữa thu nhập hoặc hoàn cảnh gia đình thay đổi thì sao?”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q02 | QUYỀN KIỂM SOÁT\n“Nếu vài năm nữa thu nhập hoặc hoàn cảnh\n gia đình thay đổi thì sao?”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q02",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị là người cẩn trọng và luôn muốn tính trước các phương án khi hoàn cảnh thay đổi\n2. HỎI ĐÚNG: Khi nghĩ đến tương lai, điều gì anh/chị thấy có thể thay đổi nhiều nhất: công việc, thu nhập hay trách nhiệm gia đình?\n3. CHIA SẺ GÓC NHÌN: THIẾT KẾ TỪ KỊCH BẢN KHÓ\nMột kế hoạch hoàn hảo phải vừa phù hợp với hiện tại, vừa tính trước những thay đổi có thể xảy ra, những điều mình được quyền điều chỉnh.\n4. LIÊN HỆ: Khi đã nhìn trước các kịch bản có thể xảy ra, anh/chị sẽ dễ dàng đưa ra quyết định hơn vì biết mình luôn có phương án để thích nghi.\n5. BƯỚC TIẾP THEO: Anh/chị thử chọn hai thay đổi dễ xảy ra nhất, mình xem phương án này sẽ vận hành ra sao khi những thay đổi đó xuất hiện nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị là người cẩn trọng và luôn muốn tính trước các phương án khi hoàn cảnh thay đổi",
+      "probe": "Khi nghĩ đến tương lai, điều gì anh/chị thấy có thể thay đổi nhiều nhất: công việc, thu nhập hay trách nhiệm gia đình?",
+      "perspective": "THIẾT KẾ TỪ KỊCH BẢN KHÓ\nMột kế hoạch hoàn hảo phải vừa phù hợp với hiện tại, vừa tính trước những thay đổi có thể xảy ra, những điều mình được quyền điều chỉnh.",
+      "relate": "Khi đã nhìn trước các kịch bản có thể xảy ra, anh/chị sẽ dễ dàng đưa ra quyết định hơn vì biết mình luôn có phương án để thích nghi.",
+      "next_step": "Anh/chị thử chọn hai thay đổi dễ xảy ra nhất, mình xem phương án này sẽ vận hành ra sao khi những thay đổi đó xuất hiện nhé?"
+    },
+    "advisor": {
+      "task": "Xác định thay đổi KH lo ngại và khả năng điều chỉnh hợp đồng.",
+      "expected_outcome": "TVV hiểu lo ngại thay đổi hoàn cảnh, thống nhất rà soát quyền điều chỉnh."
+    },
+    "customer": {
+      "hidden_concern": "Sợ hợp đồng không còn phù hợp khi hoàn cảnh thay đổi.",
+      "psychology": "Cẩn trọng, muốn có phương án dự phòng.",
+      "level_reactions": {
+        "1": "Tôi lo sau này thu nhập giảm.",
+        "2": "Nếu có thêm con hoặc chuyển việc thì kế hoạch còn phù hợp?",
+        "3": "Muốn giảm phí đóng hoặc thay đổi quyền lợi, hợp đồng cho phép gì?"
+      }
+    },
+    "observer": {
+      "focus": "Có kiểm tra quyền điều chỉnh theo điều khoản, không cam kết sai không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Sợ hoàn cảnh, thu nhập và gia đình thay đổi về sau.",
+      "context": "Cẩn trọng, muốn có phương án dự phòng.",
+      "unlock": "Hỏi thay đổi có thể xảy ra và lựa chọn điều chỉnh.",
+      "levels": {
+        "1": "Tôi lo sau này thu nhập giảm.",
+        "2": "Nếu có thêm con hoặc chuyển việc thì kế hoạch còn phù hợp?",
+        "3": "Muốn giảm phí đóng hoặc thay đổi quyền lợi, hợp đồng cho phép gì?"
+      },
+      "reveal": "Cần kế hoạch thích ứng với cuộc sống."
+    }
+  },
+  {
+    "card_id": "Q03",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi không thích bị ràng buộc dài hạn.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q03 | QUYỀN KIỂM SOÁT\n“Tôi không thích bị ràng buộc dài hạn.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị là người thích giữ sự chủ động và cân nhắc kỹ trước những cam kết dài hạn\n2. HỎI ĐÚNG: Điều gì khiến anh/chị chưa thoải mái với cam kết dài hạn: hoàn cảnh có thể thay đổi hay mục tiêu chưa thật sự rõ ràng?\n3. CHIA SẺ GÓC NHÌN: : Nếu con cái còn cần mình chu cấp, khoản vay còn phải trả hay gia đình còn đang phụ thuộc vào thu nhập của anh/chị, thì nhu cầu bảo vệ thường cũng sẽ đi cùng khoảng thời gian đó\n4. LIÊN HỆ: Nếu những trách nhiệm đó vẫn còn trong 10 hay 15 năm tới, mình cũng nên chuẩn bị cho chu toàn trong cùng khoảng thời gian đó.\n5. BƯỚC TIẾP THEO: Mình cùng xem trách nhiệm nào đang cần anh/chị chăm lo lâu nhất, rồi xác định khoảng thời gian phù hợp để bảo vệ nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị là người thích giữ sự chủ động và cân nhắc kỹ trước những cam kết dài hạn",
+      "probe": "Điều gì khiến anh/chị chưa thoải mái với cam kết dài hạn: hoàn cảnh có thể thay đổi hay mục tiêu chưa thật sự rõ ràng?",
+      "perspective": ": Nếu con cái còn cần mình chu cấp, khoản vay còn phải trả hay gia đình còn đang phụ thuộc vào thu nhập của anh/chị, thì nhu cầu bảo vệ thường cũng sẽ đi cùng khoảng thời gian đó",
+      "relate": "Nếu những trách nhiệm đó vẫn còn trong 10 hay 15 năm tới, mình cũng nên chuẩn bị cho chu toàn trong cùng khoảng thời gian đó.",
+      "next_step": "Mình cùng xem trách nhiệm nào đang cần anh/chị chăm lo lâu nhất, rồi xác định khoảng thời gian phù hợp để bảo vệ nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ nguyên nhân ngại cam kết, đối chiếu thời hạn với trách nhiệm.",
+      "expected_outcome": "TVV hiểu lo ngại dài hạn, thống nhất xem xét thời hạn bảo vệ phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Sợ mất linh hoạt khi tham gia hợp đồng dài hạn.",
+      "psychology": "Độc lập, không thích nghĩa vụ cố định.",
+      "level_reactions": {
+        "1": "Tôi không muốn đóng phí nhiều năm.",
+        "2": "Không biết tương lai còn cần mức bảo vệ hiện tại không.",
+        "3": "Thời hạn hợp đồng và thời hạn đóng phí có giống nhau không? Muốn kết thúc sớm thì sao?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt thời hạn hợp đồng, đóng phí và điều kiện chấm dứt; không ép cam kết không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Không thích ràng buộc dài hạn khi nhu cầu tương lai chưa chắc.",
+      "context": "Độc lập, không thích nghĩa vụ cố định.",
+      "unlock": "Hỏi điều lo ngại; giải thích lựa chọn và hệ quả chấm dứt.",
+      "levels": {
+        "1": "Tôi không muốn đóng phí nhiều năm.",
+        "2": "Không biết tương lai còn cần mức bảo vệ hiện tại không.",
+        "3": "Thời hạn hợp đồng và thời hạn đóng phí có giống nhau không? Muốn kết thúc sớm thì sao?"
+      },
+      "reveal": "Cần linh hoạt và hiểu hậu quả từng lựa chọn."
+    }
+  },
+  {
+    "card_id": "Q04",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi quen tự quản lý tiền bạc, không muốn giao cho ai.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q04 | QUYỀN KIỂM SOÁT\n“Tôi quen tự quản lý tiền bạc, \nkhông muốn giao cho ai.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q04",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị là người thích giữ sự chủ động và giỏi quản lý tiền bạc\n2. HỎI ĐÚNG: Khoản nào anh/chị muốn tự lo được bằng nguồn tiền của mình, và khoản nào sẽ ảnh hưởng lớn nếu phải tự xoay xở?\n3. CHIA SẺ GÓC NHÌN: Anh/chị vẫn là người quản lý tài sản và các quyết định tài chính của mình. Mình chỉ chuẩn bị trước cho những tình huống có thể vượt ngoài khả năng tài chính dự kiến hiện nay\n4. LIÊN HỆ: Sự chủ động không có nghĩa là phải tự gánh mọi thứ, chủ động là biết rõ phần nào mình tự lo và phần nào nên chuyển giao\n5. BƯỚC TIẾP THEO: Mình liệt kê phần anh/chị tiếp tục tự quản lý và phần rủi ro muốn chuyển giao nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị là người thích giữ sự chủ động và giỏi quản lý tiền bạc",
+      "probe": "Khoản nào anh/chị muốn tự lo được bằng nguồn tiền của mình, và khoản nào sẽ ảnh hưởng lớn nếu phải tự xoay xở?",
+      "perspective": "Anh/chị vẫn là người quản lý tài sản và các quyết định tài chính của mình. Mình chỉ chuẩn bị trước cho những tình huống có thể vượt ngoài khả năng tài chính dự kiến hiện nay",
+      "relate": "Sự chủ động không có nghĩa là phải tự gánh mọi thứ, chủ động là biết rõ phần nào mình tự lo và phần nào nên chuyển giao",
+      "next_step": "Mình liệt kê phần anh/chị tiếp tục tự quản lý và phần rủi ro muốn chuyển giao nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ khả năng tự dự phòng và vai trò bảo hiểm.",
+      "expected_outcome": "TVV hiểu mong muốn tự chủ, thống nhất rà soát rủi ro tự đảm nhận hoặc chuyển giao."
+    },
+    "customer": {
+      "hidden_concern": "Sợ mất quyền kiểm soát tài sản và quyết định.",
+      "psychology": "Tự tin, độc lập, chủ động.",
+      "level_reactions": {
+        "1": "Tôi muốn tự quyết cách dùng tiền.",
+        "2": "Tôi có tiết kiệm và đầu tư, không muốn phụ thuộc bảo hiểm.",
+        "3": "Nếu đủ tài sản tự chi trả rủi ro, bảo hiểm còn cần thiết không?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng tự chủ và làm rõ rủi ro KH muốn tự giữ hoặc chuyển giao không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Tự tin quản lý tài sản, không muốn phụ thuộc tổ chức khác.",
+      "context": "Tự tin, độc lập, chủ động.",
+      "unlock": "Tôn trọng kinh nghiệm; hỏi tiêu chí kiểm soát.",
+      "levels": {
+        "1": "Tôi muốn tự quyết cách dùng tiền.",
+        "2": "Tôi có tiết kiệm và đầu tư, không muốn phụ thuộc bảo hiểm.",
+        "3": "Nếu đủ tài sản tự chi trả rủi ro, bảo hiểm còn cần thiết không?"
+      },
+      "reveal": "Cần quyền tự chủ và hiểu phạm vi quyết định."
+    }
+  },
+  {
+    "card_id": "Q05",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi không muốn để cả kế hoạch tài chính phụ thuộc vào một công ty.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q05 | QUYỀN KIỂM SOÁT\n“Tôi không muốn để cả kế hoạch tài chính \nphụ thuộc vào một công ty.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q05",
+    "back_raw": "1. GHI NHẬN: Em biết Anh/chị cẩn trọng và luôn muốn giữ sự cân bằng trong cách phân bổ tài sản.\n2. HỎI ĐÚNG: Hiện nay tài sản nào đang tạo tăng trưởng, tài sản nào thanh khoản tốt và tài sản nào bảo vệ gia đình?\n3. CHIA SẺ GÓC NHÌN: Thật ra tiền mặt, đầu tư, bất động sản và BH đóng vai trò khác nhau. Khi mỗi khoản tiền làm đúng việc của nó, mình sẽ chủ động hơn và không phải đặt kỳ vọng vào một nơi duy nhất.\n4. LIÊN HỆ: Với kế hoạch hiện tại của anh/chị, mình cũng nên xem mỗi mục tiêu quan trọng đang được giao cho tài sản nào đảm nhận\n5. BƯỚC TIẾP THEO: Nếu phần bảo vệ gia đình vẫn chưa có giải pháp nào đảm nhận, mình hoàn thiện phần đó trước nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em biết Anh/chị cẩn trọng và luôn muốn giữ sự cân bằng trong cách phân bổ tài sản.",
+      "probe": "Hiện nay tài sản nào đang tạo tăng trưởng, tài sản nào thanh khoản tốt và tài sản nào bảo vệ gia đình?",
+      "perspective": "Thật ra tiền mặt, đầu tư, bất động sản và BH đóng vai trò khác nhau. Khi mỗi khoản tiền làm đúng việc của nó, mình sẽ chủ động hơn và không phải đặt kỳ vọng vào một nơi duy nhất.",
+      "relate": "Với kế hoạch hiện tại của anh/chị, mình cũng nên xem mỗi mục tiêu quan trọng đang được giao cho tài sản nào đảm nhận",
+      "next_step": "Nếu phần bảo vệ gia đình vẫn chưa có giải pháp nào đảm nhận, mình hoàn thiện phần đó trước nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ phân bổ tài sản và phụ thuộc vào từng giải pháp.",
+      "expected_outcome": "TVV hiểu nhu cầu phân bổ, thống nhất rà soát vai trò bảo vệ trong kế hoạch tổng thể."
+    },
+    "customer": {
+      "hidden_concern": "Sợ tập trung tài chính vào một tổ chức.",
+      "psychology": "Thận trọng, muốn phân tán rủi ro.",
+      "level_reactions": {
+        "1": "Tôi muốn chia tiền ra nhiều nơi.",
+        "2": "Tôi có tiền gửi và đầu tư, không muốn dành quá nhiều cho bảo hiểm.",
+        "3": "Nếu công ty bảo hiểm gặp khó khăn tài chính, quyền lợi hợp đồng được bảo vệ thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân tích vai trò tài sản và cơ chế bảo vệ trên căn cứ chính thức không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Không muốn tập trung rủi ro tài chính vào một công ty.",
+      "context": "Thận trọng, muốn phân tán rủi ro.",
+      "unlock": "Hỏi phân bổ tài sản; giải thích vai trò và giới hạn bảo hiểm.",
+      "levels": {
+        "1": "Tôi muốn chia tiền ra nhiều nơi.",
+        "2": "Tôi có tiền gửi và đầu tư, không muốn dành quá nhiều cho bảo hiểm.",
+        "3": "Nếu công ty bảo hiểm gặp khó khăn tài chính, quyền lợi hợp đồng được bảo vệ thế nào?"
+      },
+      "reveal": "Cần đa dạng hóa và hiểu sự phụ thuộc."
+    }
+  },
+  {
+    "card_id": "Q06",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi muốn sau này có thể thay đổi bất cứ lúc nào, chứ không bị ràng buộc cố định.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q06 | QUYỀN KIỂM SOÁT\n“Tôi muốn sau này có thể thay đổi bất cứ lúc nào, chứ không bị ràng buộc cố định.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q06",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Anh/chị muốn giữ quyền điều chỉnh kế hoạch khi cuộc sống có thay đổi.\n2. HỎI ĐÚNG: Nếu cuộc sống thay đổi, anh/chị muốn giữ quyền điều chỉnh phần nào?\n3. CHIA SẺ GÓC NHÌN: Mình cần biết trước phần nào có thể thay đổi, thay đổi trong điều kiện nào và ảnh hưởng ra sao đến kế hoạch ban đầu\n4. LIÊN HỆ: Càng hiểu rõ các quyền điều chỉnh từ đầu, anh/chị càng dễ chủ động khi hoàn cảnh thay đổi sau này\n5. BƯỚC TIẾP THEO: Mình rà soát từng quyền điều chỉnh anh/chị đang quan tâm để xem mức độ linh hoạt có đúng như mong đợi không nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Anh/chị muốn giữ quyền điều chỉnh kế hoạch khi cuộc sống có thay đổi.",
+      "probe": "Nếu cuộc sống thay đổi, anh/chị muốn giữ quyền điều chỉnh phần nào?",
+      "perspective": "Mình cần biết trước phần nào có thể thay đổi, thay đổi trong điều kiện nào và ảnh hưởng ra sao đến kế hoạch ban đầu",
+      "relate": "Càng hiểu rõ các quyền điều chỉnh từ đầu, anh/chị càng dễ chủ động khi hoàn cảnh thay đổi sau này",
+      "next_step": "Mình rà soát từng quyền điều chỉnh anh/chị đang quan tâm để xem mức độ linh hoạt có đúng như mong đợi không nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ nhu cầu linh hoạt và các quyền điều chỉnh hợp đồng.",
+      "expected_outcome": "TVV hiểu nhu cầu linh hoạt, thống nhất rà soát các quyền điều chỉnh."
+    },
+    "customer": {
+      "hidden_concern": "Sợ không thể điều chỉnh khi nhu cầu hoặc tài chính thay đổi.",
+      "psychology": "Chủ động, không thích cứng nhắc.",
+      "level_reactions": {
+        "1": "Tôi muốn thay đổi mức phí đóng.",
+        "2": "Nếu nhu cầu bảo vệ đổi, điều chỉnh quyền lợi được không?",
+        "3": "Thay đổi phí đóng, số tiền bảo hiểm hoặc thời hạn đóng phí: điều kiện và ảnh hưởng gì?"
+      }
+    },
+    "observer": {
+      "focus": "Có giải thích đúng quyền, điều kiện và ảnh hưởng đến quyền lợi không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Muốn điều chỉnh khi nhu cầu, thu nhập thay đổi.",
+      "context": "Chủ động, không thích cứng nhắc.",
+      "unlock": "Hỏi yếu tố cần linh hoạt; nêu điều kiện điều chỉnh thực tế.",
+      "levels": {
+        "1": "Tôi muốn thay đổi mức phí đóng.",
+        "2": "Nếu nhu cầu bảo vệ đổi, điều chỉnh quyền lợi được không?",
+        "3": "Thay đổi phí đóng, số tiền bảo hiểm hoặc thời hạn đóng phí: điều kiện và ảnh hưởng gì?"
+      },
+      "reveal": "Cần biết mức linh hoạt thực tế, không phải lời hứa."
+    }
+  },
+  {
+    "card_id": "Q07",
+    "category": "QUYỀN KIỂM SOÁT",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi không muốn bị tư vấn viên dẫn dắt rồi quyết định thay mình.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "Q07 | QUYỀN KIỂM SOÁT\n“Tôi không muốn bị tư vấn viên dẫn dắt rồi quyết định thay mình.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: Q07",
+    "back_raw": "1. GHI NHẬN: Cảm ơn anh/chị đã chia sẻ thẳng thắn. Với những quyết định quan trọng, việc anh/chị muốn tự mình hiểu rõ và lựa chọn là hoàn toàn hợp lý\n2. HỎI ĐÚNG: Điều gì trong cách trao đổi khiến anh/chị cảm thấy mình đang bị dẫn dắt?\n3. CHIA SẺ GÓC NHÌN: TƯ VẤN VIÊN CẦM BẢN ĐỒ, KHÁCH HÀNG CẦM VÔ-LĂNG\nVai trò của em là giúp anh/chị nhìn rõ các quyền lợi và những điều cần cân nhắc. Còn quyết định đi hướng nào, đi tới đâu và dừng lại lúc nào vẫn là của anh/chị\n.\n4. LIÊN HỆ: Giải pháp chỉ phù hợp khi anh/chị hiểu rõ quyền lợi, giới hạn và vẫn là người quyết định cuối cùng.\n5. BƯỚC TIẾP THEO: Vậy mình cùng đi từng phần một nhé. Bất cứ điểm nào chưa rõ hoặc chưa phù hợp, anh/chị cứ dừng em lại",
+    "original_five_steps": {
+      "acknowledge": "Cảm ơn anh/chị đã chia sẻ thẳng thắn. Với những quyết định quan trọng, việc anh/chị muốn tự mình hiểu rõ và lựa chọn là hoàn toàn hợp lý",
+      "probe": "Điều gì trong cách trao đổi khiến anh/chị cảm thấy mình đang bị dẫn dắt?",
+      "perspective": "TƯ VẤN VIÊN CẦM BẢN ĐỒ, KHÁCH HÀNG CẦM VÔ-LĂNG\nVai trò của em là giúp anh/chị nhìn rõ các quyền lợi và những điều cần cân nhắc. Còn quyết định đi hướng nào, đi tới đâu và dừng lại lúc nào vẫn là của anh/chị\n.",
+      "relate": "Giải pháp chỉ phù hợp khi anh/chị hiểu rõ quyền lợi, giới hạn và vẫn là người quyết định cuối cùng.",
+      "next_step": "Vậy mình cùng đi từng phần một nhé. Bất cứ điểm nào chưa rõ hoặc chưa phù hợp, anh/chị cứ dừng em lại"
+    },
+    "advisor": {
+      "task": "Làm rõ cảm giác bị dẫn dắt và khẳng định quyền tự quyết.",
+      "expected_outcome": "TVV hiểu quyền tự quyết, thống nhất cách cung cấp thông tin và trao đổi."
+    },
+    "customer": {
+      "hidden_concern": "Sợ bị thuyết phục quá mức và quyết định không phù hợp.",
+      "psychology": "Cảnh giác, đề cao độc lập.",
+      "level_reactions": {
+        "1": "Tôi muốn tự cân nhắc.",
+        "2": "Tôi không thích TVV thúc giục quyết định.",
+        "3": "Nếu tôi từ chối tham gia, anh/chị có tiếp tục thuyết phục không?"
+      }
+    },
+    "observer": {
+      "focus": "Có ghi nhận cảm nhận, trao quyền quyết định và dừng khi KH từ chối rõ không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Từng bị thúc ép; muốn tự quyết định không bị dẫn dắt.",
+      "context": "Cảnh giác, đề cao độc lập.",
+      "unlock": "Hỏi tiêu chí lựa chọn, tôn trọng thời gian quyết định.",
+      "levels": {
+        "1": "Tôi muốn tự cân nhắc.",
+        "2": "Tôi không thích TVV thúc giục quyết định.",
+        "3": "Nếu tôi từ chối tham gia, anh/chị có tiếp tục thuyết phục không?"
+      },
+      "reveal": "Cần cuộc tư vấn không áp lực."
+    }
+  },
+  {
+    "card_id": "DT01",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Việc này tôi phải về bàn với vợ/chồng đã rồi mới quyết định.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT01 | ĐỒNG THUẬN\n“Việc này tôi phải về bàn với \nvợ/chồng đã rồi mới quyết định.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT01",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Đây là quyết định ảnh hưởng đến cả gia đình nên việc anh/chị muốn trao đổi và thống nhất với vợ/chồng là hoàn toàn hợp lý\n2. HỎI ĐÚNG: Anh/chị nghĩ người bạn đời sẽ quan tâm điểm nào nhất?\n3. CHIA SẺ GÓC NHÌN: Với những quyết định liên quan đến cả gia đình, sẽ dễ hơn khi hai anh/chị cùng hiểu một thông tin, cùng đặt câu hỏi và cùng trao đổi những điều còn băn khoăn\n4. LIÊN HỆ: Thật ra em không muốn anh/chị phải về nhà giải thích lại thay em. Sẽ dễ hơn nếu hai anh chị cùng xem một bản tóm tắt, cùng đặt câu hỏi và cùng làm rõ những điều còn băn khoăn.\n5. BƯỚC TIẾP THEO: Em gửi hai anh chị một bản tóm tắt ngắn những điểm chính để anh chị cùng xem. Mọi câu hỏi hoặc băn khoăn của anh/chị nhà, mình cùng trao đổi trực tiếp nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Đây là quyết định ảnh hưởng đến cả gia đình nên việc anh/chị muốn trao đổi và thống nhất với vợ/chồng là hoàn toàn hợp lý",
+      "probe": "Anh/chị nghĩ người bạn đời sẽ quan tâm điểm nào nhất?",
+      "perspective": "Với những quyết định liên quan đến cả gia đình, sẽ dễ hơn khi hai anh/chị cùng hiểu một thông tin, cùng đặt câu hỏi và cùng trao đổi những điều còn băn khoăn",
+      "relate": "Thật ra em không muốn anh/chị phải về nhà giải thích lại thay em. Sẽ dễ hơn nếu hai anh chị cùng xem một bản tóm tắt, cùng đặt câu hỏi và cùng làm rõ những điều còn băn khoăn.",
+      "next_step": "Em gửi hai anh chị một bản tóm tắt ngắn những điểm chính để anh chị cùng xem. Mọi câu hỏi hoặc băn khoăn của anh/chị nhà, mình cùng trao đổi trực tiếp nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ vấn đề vợ/chồng cần cân nhắc và hỗ trợ cùng tiếp cận thông tin.",
+      "expected_outcome": "TVV hiểu nhu cầu đồng thuận, thống nhất trao đổi và cung cấp thông tin cho vợ/chồng."
+    },
+    "customer": {
+      "hidden_concern": "Muốn đồng thuận trước cam kết dài hạn.",
+      "psychology": "Có trách nhiệm, tôn trọng bạn đời.",
+      "level_reactions": {
+        "1": "Tôi muốn vợ/chồng cùng xem.",
+        "2": "Vợ/chồng tôi lo mức phí đóng và khả năng duy trì.",
+        "3": "Nếu vợ/chồng tôi không đồng ý, em vẫn thuyết phục tôi tham gia không?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng quyết định chung và chỉ đề xuất trao đổi cả hai khi được đồng ý không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Cam kết phí ảnh hưởng ngân sách chung, cần bàn với vợ/chồng.",
+      "context": "Có trách nhiệm, tôn trọng bạn đời.",
+      "unlock": "Hỏi tiêu chí chung; cung cấp thông tin để hai người cân nhắc.",
+      "levels": {
+        "1": "Tôi muốn vợ/chồng cùng xem.",
+        "2": "Vợ/chồng tôi lo mức phí đóng và khả năng duy trì.",
+        "3": "Nếu vợ/chồng tôi không đồng ý, em vẫn thuyết phục tôi tham gia không?"
+      },
+      "reveal": "Cần đồng thuận gia đình trước cam kết."
+    }
+  },
+  {
+    "card_id": "DT02",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Chồng tôi không tin bảo hiểm đâu, hễ nghe đến là anh ấy gạt đi.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT02 | ĐỒNG THUẬN\n“Chồng tôi không tin bảo hiểm đâu, \nhễ nghe đến là anh ấy gạt đi.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT02",
+    "back_raw": "1. GHI NHẬN: Em biết là chị không muốn tự quyết một mình khi anh nhà vẫn còn những băn khoăn chưa được giải đáp.\n2. HỎI ĐÚNG: Nếu anh ấy ngồi đây hôm nay, chị nghĩ câu hỏi đầu tiên anh ấy sẽ đặt ra là gì?\n3. CHIA SẺ GÓC NHÌN: Nếu anh nhà đang có những băn khoăn về bảo hiểm, em nghĩ tốt nhất là được nghe trực tiếp từ anh ấy. Sau đó mình cùng xem tài liệu, chứng từ và trả lời trên đúng những điều anh/chị ấy quan tâm\n4. LIÊN HỆ: Em mong muốn là cả hai anh chị cùng hiểu, cùng đặt câu hỏi và cùng đưa ra quyết định, chứ em không để chị phải về nhà giải thích lại thay em\n5. BƯỚC TIẾP THEO: Hay mình sắp xếp một buổi ngắn có mặt cả anh và chị. Em sẽ trình bày lại những nội dung chính, còn anh nhà có thể hỏi trực tiếp bất kỳ điều gì anh ấy còn băn khoăn nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em biết là chị không muốn tự quyết một mình khi anh nhà vẫn còn những băn khoăn chưa được giải đáp.",
+      "probe": "Nếu anh ấy ngồi đây hôm nay, chị nghĩ câu hỏi đầu tiên anh ấy sẽ đặt ra là gì?",
+      "perspective": "Nếu anh nhà đang có những băn khoăn về bảo hiểm, em nghĩ tốt nhất là được nghe trực tiếp từ anh ấy. Sau đó mình cùng xem tài liệu, chứng từ và trả lời trên đúng những điều anh/chị ấy quan tâm",
+      "relate": "Em mong muốn là cả hai anh chị cùng hiểu, cùng đặt câu hỏi và cùng đưa ra quyết định, chứ em không để chị phải về nhà giải thích lại thay em",
+      "next_step": "Hay mình sắp xếp một buổi ngắn có mặt cả anh và chị. Em sẽ trình bày lại những nội dung chính, còn anh nhà có thể hỏi trực tiếp bất kỳ điều gì anh ấy còn băn khoăn nhé?"
+    },
+    "advisor": {
+      "task": "Tìm nguyên nhân chồng KH thiếu niềm tin, xác định cách trao đổi.",
+      "expected_outcome": "TVV hiểu trở ngại đồng thuận, thống nhất cách cung cấp thông tin cho hai vợ chồng."
+    },
+    "customer": {
+      "hidden_concern": "Lo bất đồng gia đình khi tham gia.",
+      "psychology": "E ngại, không muốn tạo áp lực với chồng.",
+      "level_reactions": {
+        "1": "Chồng tôi không thích nghe bảo hiểm.",
+        "2": "Anh ấy nghe nhiều trường hợp không được chi trả.",
+        "3": "Nếu chồng từ chối gặp TVV, em giúp tôi đủ thông tin bằng cách nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có tìm nguyên nhân, tránh phán xét chồng và tôn trọng việc chưa quyết định không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Người bạn đời không tin bảo hiểm; sợ bất đồng.",
+      "context": "E ngại, không muốn tạo áp lực với chồng.",
+      "unlock": "Hỏi nguyên nhân lo ngại, đề nghị trao đổi minh bạch nếu đồng ý.",
+      "levels": {
+        "1": "Chồng tôi không thích nghe bảo hiểm.",
+        "2": "Anh ấy nghe nhiều trường hợp không được chi trả.",
+        "3": "Nếu chồng từ chối gặp TVV, em giúp tôi đủ thông tin bằng cách nào?"
+      },
+      "reveal": "Cần giải quyết khác biệt quan điểm, không bị ép chọn."
+    }
+  },
+  {
+    "card_id": "DT03",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Vợ tôi giữ tài chính trong nhà, tôi có thích cũng không tự quyết được.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT03 | ĐỒNG THUẬN\n“Vợ tôi giữ tài chính trong nhà, tôi có thích cũng không tự quyết được.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT03",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Với những khoản chi quan trọng, việc anh muốn có sự đồng thuận của chị nhà là hoàn toàn hợp lý.\n2. HỎI ĐÚNG: Theo anh, chị nhà sẽ nhìn vào tiêu chí nào đầu tiên để đánh giá kế hoạch này?\n3. CHIA SẺ GÓC NHÌN: Nếu chị nhà là người quản lý tài chính, em nghĩ chị cũng nên được xem đầy đủ thông tin để tự đánh giá và đặt câu hỏi theo góc nhìn của mình\n4. LIÊN HỆ: “Em không muốn anh phải về truyền đạt lại, em nghĩ sẽ thuận lợi hơn khi hai anh chị cùng trao đổi trên cùng một thông tin\n5. BƯỚC TIẾP THEO: Em gửi bản tóm tắt trước để anh chị cùng xem. Mình hẹn một buổi chừng 20’ có mặt cả hai anh chị để trao đổi trên đúng những điều anh chị quan tâm nhé",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Với những khoản chi quan trọng, việc anh muốn có sự đồng thuận của chị nhà là hoàn toàn hợp lý.",
+      "probe": "Theo anh, chị nhà sẽ nhìn vào tiêu chí nào đầu tiên để đánh giá kế hoạch này?",
+      "perspective": "Nếu chị nhà là người quản lý tài chính, em nghĩ chị cũng nên được xem đầy đủ thông tin để tự đánh giá và đặt câu hỏi theo góc nhìn của mình",
+      "relate": "“Em không muốn anh phải về truyền đạt lại, em nghĩ sẽ thuận lợi hơn khi hai anh chị cùng trao đổi trên cùng một thông tin",
+      "next_step": "Em gửi bản tóm tắt trước để anh chị cùng xem. Mình hẹn một buổi chừng 20’ có mặt cả hai anh chị để trao đổi trên đúng những điều anh chị quan tâm nhé"
+    },
+    "advisor": {
+      "task": "Xác định vai trò vợ trong quản lý ngân sách và tiêu chí chung.",
+      "expected_outcome": "TVV hiểu vai trò quyết định tài chính, thống nhất trao đổi với hai vợ chồng."
+    },
+    "customer": {
+      "hidden_concern": "Sợ giải pháp không phù hợp ngân sách gia đình.",
+      "psychology": "Quan tâm giải pháp, tôn trọng người quản lý tài chính.",
+      "level_reactions": {
+        "1": "Vợ tôi quản lý các khoản chi.",
+        "2": "Vợ rất kỹ về mức phí và quyền lợi.",
+        "3": "Nếu vợ cho rằng chưa đủ khả năng đóng phí, em đề xuất thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng vai trò vợ và trao đổi trên ngân sách chung không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Vợ/chồng quản lý ngân sách, cần xem Bảng minh họa và nghĩa vụ phí.",
+      "context": "Quan tâm giải pháp, tôn trọng người quản lý tài chính.",
+      "unlock": "Hỏi cách phân bổ ngân sách, mời cùng xem tài liệu.",
+      "levels": {
+        "1": "Vợ tôi quản lý các khoản chi.",
+        "2": "Vợ rất kỹ về mức phí và quyền lợi.",
+        "3": "Nếu vợ cho rằng chưa đủ khả năng đóng phí, em đề xuất thế nào?"
+      },
+      "reveal": "Cần phù hợp ngân sách và đồng thuận người quản lý."
+    }
+  },
+  {
+    "card_id": "DT04",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi muốn hỏi ý kiến bố mẹ trước, nhà tôi chuyện lớn đều bàn với bố mẹ.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT04 | ĐỒNG THUẬN\n“Tôi muốn hỏi ý kiến bố mẹ trước, nhà tôi chuyện lớn đều bàn với bố mẹ.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT04",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Chứng tỏ anh/chị là người sống tình cảm và luôn muốn lắng nghe ý kiến của bố mẹ trước những quyết định quan trọn\n2. HỎI ĐÚNG: Theo anh/chị, điều bố mẹ muốn yên tâm nhất ở một kế hoạch như thế này là gì?\n3. CHIA SẺ GÓC NHÌN: Nếu bố mẹ là người anh/chị luôn tham khảo ý kiến trong những việc quan trọng, em nghĩ mình nên chuẩn bị đúng những thông tin bố mẹ quan tâm và cùng trao đổi trên những điều đó.\n4. LIÊN HỆ: Em nghĩ sẽ thuận lợi hơn nếu bố mẹ mình được xem đúng những thông tin mà anh/chị đang xem hôm nay, chứ em không muốn anh/chị phải nhớ rồi giải thích lại từng ý\n5. BƯỚC TIẾP THEO: Mình cùng thống nhất trước 2-3 nội dung hai bác quan tâm nhất. Nếu thuận tiện, em rất sẵn lòng trao đổi trực tiếp với anh/chị cùng hai bác để cả nhà cùng có đầy đủ thông tin nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Chứng tỏ anh/chị là người sống tình cảm và luôn muốn lắng nghe ý kiến của bố mẹ trước những quyết định quan trọn",
+      "probe": "Theo anh/chị, điều bố mẹ muốn yên tâm nhất ở một kế hoạch như thế này là gì?",
+      "perspective": "Nếu bố mẹ là người anh/chị luôn tham khảo ý kiến trong những việc quan trọng, em nghĩ mình nên chuẩn bị đúng những thông tin bố mẹ quan tâm và cùng trao đổi trên những điều đó.",
+      "relate": "Em nghĩ sẽ thuận lợi hơn nếu bố mẹ mình được xem đúng những thông tin mà anh/chị đang xem hôm nay, chứ em không muốn anh/chị phải nhớ rồi giải thích lại từng ý",
+      "next_step": "Mình cùng thống nhất trước 2-3 nội dung hai bác quan tâm nhất. Nếu thuận tiện, em rất sẵn lòng trao đổi trực tiếp với anh/chị cùng hai bác để cả nhà cùng có đầy đủ thông tin nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ mối quan tâm của bố mẹ, hỗ trợ KH chuẩn bị thông tin.",
+      "expected_outcome": "TVV hiểu nhu cầu tham khảo bố mẹ, thống nhất thông tin cần chuẩn bị."
+    },
+    "customer": {
+      "hidden_concern": "Muốn được bố mẹ ủng hộ.",
+      "psychology": "Coi trọng gia đình, tôn trọng người lớn.",
+      "level_reactions": {
+        "1": "Việc quan trọng tôi thường hỏi bố mẹ.",
+        "2": "Bố mẹ lo ràng buộc tài chính dài hạn.",
+        "3": "Nếu bố mẹ phản đối vì trải nghiệm bảo hiểm không tốt, em xử lý thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng vai trò bố mẹ, không ép KH trước khi hỏi gia đình không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Coi trọng ý kiến bố mẹ, không muốn tạo bất đồng.",
+      "context": "Coi trọng gia đình, tôn trọng người lớn.",
+      "unlock": "Tôn trọng vai trò bố mẹ; cung cấp thông tin để cùng xem.",
+      "levels": {
+        "1": "Việc quan trọng tôi thường hỏi bố mẹ.",
+        "2": "Bố mẹ lo ràng buộc tài chính dài hạn.",
+        "3": "Nếu bố mẹ phản đối vì trải nghiệm bảo hiểm không tốt, em xử lý thế nào?"
+      },
+      "reveal": "Cần sự ủng hộ gia đình."
+    }
+  },
+  {
+    "card_id": "DT05",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi phải hỏi kế toán xem khoản này có hợp lý không.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT05 | ĐỒNG THUẬN\n“Tôi phải hỏi kế toán xem khoản này có hợp lý không.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT05",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Quyết định ảnh hưởng gia đình hoặc doanh nghiệp nên có sự đồng thuận cần thiết.\n2. HỎI ĐÚNG: Anh/chị muốn kế toán xác nhận dòng tiền, cách hạch toán hay vấn đề thuế?\n3. CHIA SẺ GÓC NHÌN: Em nghĩ ý kiến của kế toán rất có giá trị vì họ hiểu dòng tiền, chi phí và những điều cần cân nhắc về tài chính. Còn em tập trung vào việc làm rõ mục tiêu bảo vệ và các lựa chọn phù hợp. Khi cả hai cùng nhìn trên một bộ thông tin, anh/chị sẽ có góc nhìn đầy đủ hơn để quyết định.\n4. LIÊN HỆ: Em nghĩ sẽ dễ hơn nếu kế toán của anh/chị được xem cùng một bộ thông tin và cùng trao đổi trên những điều anh/chị đang cân nhắc hôm nay\n5. BƯỚC TIẾP THEO: Em gửi tài liệu và giả định cho kế toán, rồi mình hẹn lại sau khi có ý kiến chuyên môn nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Quyết định ảnh hưởng gia đình hoặc doanh nghiệp nên có sự đồng thuận cần thiết.",
+      "probe": "Anh/chị muốn kế toán xác nhận dòng tiền, cách hạch toán hay vấn đề thuế?",
+      "perspective": "Em nghĩ ý kiến của kế toán rất có giá trị vì họ hiểu dòng tiền, chi phí và những điều cần cân nhắc về tài chính. Còn em tập trung vào việc làm rõ mục tiêu bảo vệ và các lựa chọn phù hợp. Khi cả hai cùng nhìn trên một bộ thông tin, anh/chị sẽ có góc nhìn đầy đủ hơn để quyết định.",
+      "relate": "Em nghĩ sẽ dễ hơn nếu kế toán của anh/chị được xem cùng một bộ thông tin và cùng trao đổi trên những điều anh/chị đang cân nhắc hôm nay",
+      "next_step": "Em gửi tài liệu và giả định cho kế toán, rồi mình hẹn lại sau khi có ý kiến chuyên môn nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ vấn đề tài chính cần kế toán đánh giá.",
+      "expected_outcome": "TVV hiểu nhu cầu xác minh tài chính, thống nhất tài liệu cho kế toán và thời điểm trao đổi."
+    },
+    "customer": {
+      "hidden_concern": "Muốn xác định tác động của phí đến dòng tiền, kế toán và thuế.",
+      "psychology": "Thận trọng, dựa vào chuyên môn.",
+      "level_reactions": {
+        "1": "Tôi muốn kế toán kiểm tra cân đối dòng tiền.",
+        "2": "Kế toán cần biết phí đóng được hạch toán thế nào.",
+        "3": "Phí này có được tính vào chi phí được trừ khi xác định thu nhập chịu thuế không?"
+      }
+    },
+    "observer": {
+      "focus": "Có phân biệt tư vấn bảo hiểm với chuyên môn kế toán thuế và gửi tài liệu để kiểm tra không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Muốn kế toán xem tác động dòng tiền, hạch toán và thuế.",
+      "context": "Thận trọng, dựa vào chuyên môn.",
+      "unlock": "Hỏi mục đích; cung cấp tài liệu, khuyến khích chuyên gia xác minh.",
+      "levels": {
+        "1": "Tôi muốn kế toán kiểm tra cân đối dòng tiền.",
+        "2": "Kế toán cần biết phí đóng được hạch toán thế nào.",
+        "3": "Phí này có được tính vào chi phí được trừ khi xác định thu nhập chịu thuế không?"
+      },
+      "reveal": "Cần đánh giá tài chính và tuân thủ kế toán thuế."
+    }
+  },
+  {
+    "card_id": "DT06",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi cần trao đổi với đối tác trước, vì dòng tiền và doanh nghiệp là của cả hai.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT06 | ĐỒNG THUẬN\n“Tôi cần trao đổi với đối tác trước, vì dòng tiền và doanh nghiệp là của cả hai.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT06",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi dòng tiền và trách nhiệm kinh doanh là của cả hai, việc anh/chị muốn trao đổi trước với đối tác là hoàn toàn hợp lý\n2. HỎI ĐÚNG: Đối tác của anh/chị sẽ quan tâm nhất khi xem kế hoạch này?\n3. CHIA SẺ GÓC NHÌN: Trước khi bàn đến giải pháp nào, em nghĩ hai đối tác  cần thống nhất doanh nghiệp cần được bảo vệ điều gì, ai chịu ảnh hưởng nếu có biến cố và mức hỗ trợ bao nhiêu là phù hợp\n4. LIÊN HỆ: Em nghĩ sẽ thuận lợi hơn nếu đối tác của anh/chị được xem cùng những thông tin mình đang trao đổi hôm nay, chứ em không muốn anh/chị phải mang về rồi giải thích lại theo góc nhìn của mình\n5. BƯỚC TIẾP THEO: Mình hẹn buổi có cả anh/chị và đối tác để thống nhất vấn đề, con số và người ra quyết định trước nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi dòng tiền và trách nhiệm kinh doanh là của cả hai, việc anh/chị muốn trao đổi trước với đối tác là hoàn toàn hợp lý",
+      "probe": "Đối tác của anh/chị sẽ quan tâm nhất khi xem kế hoạch này?",
+      "perspective": "Trước khi bàn đến giải pháp nào, em nghĩ hai đối tác  cần thống nhất doanh nghiệp cần được bảo vệ điều gì, ai chịu ảnh hưởng nếu có biến cố và mức hỗ trợ bao nhiêu là phù hợp",
+      "relate": "Em nghĩ sẽ thuận lợi hơn nếu đối tác của anh/chị được xem cùng những thông tin mình đang trao đổi hôm nay, chứ em không muốn anh/chị phải mang về rồi giải thích lại theo góc nhìn của mình",
+      "next_step": "Mình hẹn buổi có cả anh/chị và đối tác để thống nhất vấn đề, con số và người ra quyết định trước nhé?"
+    },
+    "advisor": {
+      "task": "Xác định trách nhiệm tài chính chung, người quyết định và nhu cầu bảo vệ doanh nghiệp.",
+      "expected_outcome": "TVV hiểu yêu cầu đồng thuận, thống nhất nội dung và người tham gia quyết định."
+    },
+    "customer": {
+      "hidden_concern": "Sợ ảnh hưởng dòng tiền hoặc quyền lợi đối tác.",
+      "psychology": "Có trách nhiệm, coi trọng minh bạch.",
+      "level_reactions": {
+        "1": "Khoản chi lớn cần hai bên đồng ý.",
+        "2": "Đối tác muốn biết giải pháp có lợi gì cho doanh nghiệp.",
+        "3": "Nếu một đối tác muốn còn người kia không đồng ý, em xử lý thế nào?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ nhu cầu, dòng tiền, thẩm quyền quyết định, không thúc đẩy đơn phương không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Dòng tiền doanh nghiệp liên quan đối tác, không muốn quyết định đơn phương.",
+      "context": "Có trách nhiệm, coi trọng minh bạch.",
+      "unlock": "Hỏi cơ chế ra quyết định, nguồn ngân sách, tiêu chí đối tác.",
+      "levels": {
+        "1": "Khoản chi lớn cần hai bên đồng ý.",
+        "2": "Đối tác muốn biết giải pháp có lợi gì cho doanh nghiệp.",
+        "3": "Nếu một đối tác muốn còn người kia không đồng ý, em xử lý thế nào?"
+      },
+      "reveal": "Cần bảo đảm quyền lợi và đồng thuận các bên."
+    }
+  },
+  {
+    "card_id": "DT07",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Luật sư của tôi phải xem trước rồi tôi mới ký.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT07 | ĐỒNG THUẬN\n“Luật sư của tôi phải xem trước rồi tôi mới ký.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT07",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Điều đó cho thấy anh/chị rất cẩn trọng và luôn muốn được rà soát kỹ trước những cam kết quan trọng\n2. HỎI ĐÚNG: Anh/chị muốn luật sư tập trung phần điều khoản, người thụ hưởng hay cấu trúc tài sản?\n3. CHIA SẺ GÓC NHÌN: Em luôn khuyến khích anh/chị kiểm tra thông tin từ nguồn chính thức và đặt ra những câu hỏi cần được làm rõ trước khi quyết định\n4. LIÊN HỆ: Nếu cần tham khảo thêm ý kiến luật sư, tốt nhất là mình cùng dựa trên một bộ tài liệu và cùng làm rõ những điểm anh/chị đang quan tâm\n5. BƯỚC TIẾP THEO: Em chuẩn bị bộ tài liệu chính thức và danh sách câu hỏi để luật sư rà soát nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Điều đó cho thấy anh/chị rất cẩn trọng và luôn muốn được rà soát kỹ trước những cam kết quan trọng",
+      "probe": "Anh/chị muốn luật sư tập trung phần điều khoản, người thụ hưởng hay cấu trúc tài sản?",
+      "perspective": "Em luôn khuyến khích anh/chị kiểm tra thông tin từ nguồn chính thức và đặt ra những câu hỏi cần được làm rõ trước khi quyết định",
+      "relate": "Nếu cần tham khảo thêm ý kiến luật sư, tốt nhất là mình cùng dựa trên một bộ tài liệu và cùng làm rõ những điểm anh/chị đang quan tâm",
+      "next_step": "Em chuẩn bị bộ tài liệu chính thức và danh sách câu hỏi để luật sư rà soát nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ điều khoản cần luật sư kiểm tra và cung cấp tài liệu chính thức.",
+      "expected_outcome": "TVV hiểu yêu cầu pháp lý, thống nhất tài liệu và nội dung luật sư rà soát."
+    },
+    "customer": {
+      "hidden_concern": "Sợ điều khoản ảnh hưởng bất lợi quyền lợi.",
+      "psychology": "Cẩn trọng, coi trọng căn cứ pháp lý.",
+      "level_reactions": {
+        "1": "Tôi muốn luật sư đọc hợp đồng trước.",
+        "2": "Luật sư cần kiểm tra loại trừ và quyền lợi người thụ hưởng.",
+        "3": "Nếu luật sư thấy điều khoản chưa rõ hoặc có rủi ro pháp lý thì em làm gì?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng luật sư, cung cấp tài liệu và chuyển vấn đề vượt thẩm quyền không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Muốn luật sư kiểm tra điều khoản và quyền lợi người thụ hưởng.",
+      "context": "Cẩn trọng, coi trọng căn cứ pháp lý.",
+      "unlock": "Tôn trọng việc tham khảo luật sư, cung cấp tài liệu chính thức.",
+      "levels": {
+        "1": "Tôi muốn luật sư đọc hợp đồng trước.",
+        "2": "Luật sư cần kiểm tra loại trừ và quyền lợi người thụ hưởng.",
+        "3": "Nếu luật sư thấy điều khoản chưa rõ hoặc có rủi ro pháp lý thì em làm gì?"
+      },
+      "reveal": "Cần chắc chắn pháp lý trước khi ký."
+    }
+  },
+  {
+    "card_id": "DT08",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Các con tôi bảo đã lớn tuổi rồi, đừng mua thêm bảo hiểm nữa.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT08 | ĐỒNG THUẬN\n“Các con tôi bảo đã lớn tuổi rồi, đừng mua thêm bảo hiểm nữa.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT08",
+    "back_raw": "1. GHI NHẬN: Em hiểu. Khi con cái đã có ý kiến, mình cũng muốn lắng nghe để đưa ra quyết định mà cả gia đình đều cảm thấy yên tâm\n2. HỎI ĐÚNG: Các con lo nhất về chi phí, độ tuổi, sức khỏe hay việc anh/chị chưa được tư vấn đầy đủ?\n3. CHIA SẺ GÓC NHÌN: “Em nghĩ nhiều khi điều con của anh/chị cần hiểu mục tiêu của khoản tiền này và lý do anh/chị muốn thực hiện kế hoạch đó.\n4. LIÊN HỆ: “Anh /chị không cần phải giải thích lại đâu, sẽ thuận lợi hơn nếu các con của anh/chị được cùng xem những thông tin và mục tiêu mà anh/chị đang hướng tới\n5. BƯỚC TIẾP THEO: “Mình mời các bạn ấy cùng gặp nhau chừng 20’ để cùng hiểu mục tiêu, nguồn tiền và giới hạn nhé?",
+    "original_five_steps": {
+      "acknowledge": "Em hiểu. Khi con cái đã có ý kiến, mình cũng muốn lắng nghe để đưa ra quyết định mà cả gia đình đều cảm thấy yên tâm",
+      "probe": "Các con lo nhất về chi phí, độ tuổi, sức khỏe hay việc anh/chị chưa được tư vấn đầy đủ?",
+      "perspective": "“Em nghĩ nhiều khi điều con của anh/chị cần hiểu mục tiêu của khoản tiền này và lý do anh/chị muốn thực hiện kế hoạch đó.",
+      "relate": "“Anh /chị không cần phải giải thích lại đâu, sẽ thuận lợi hơn nếu các con của anh/chị được cùng xem những thông tin và mục tiêu mà anh/chị đang hướng tới",
+      "next_step": "“Mình mời các bạn ấy cùng gặp nhau chừng 20’ để cùng hiểu mục tiêu, nguồn tiền và giới hạn nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ quan điểm con cái và nhu cầu bảo vệ theo độ tuổi.",
+      "expected_outcome": "TVV hiểu băn khoăn KH và con, thống nhất rà soát giải pháp phù hợp."
+    },
+    "customer": {
+      "hidden_concern": "Muốn con ủng hộ, lo khả năng đóng phí và điều kiện tham gia.",
+      "psychology": "Cân nhắc, coi trọng ý kiến con.",
+      "level_reactions": {
+        "1": "Con lo tôi lớn tuổi, không nên đóng phí thêm.",
+        "2": "Con sợ phí cao, quyền lợi không còn phù hợp tuổi.",
+        "3": "Ở tuổi tôi, điều kiện, thời hạn bảo vệ và loại trừ cần lưu ý gì?"
+      }
+    },
+    "observer": {
+      "focus": "Có làm rõ nhu cầu, điều kiện, khả năng đóng phí và tôn trọng quyết định gia đình không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Con cái lo bố mẹ lớn tuổi, phí và điều kiện không phù hợp.",
+      "context": "Cân nhắc, coi trọng ý kiến con.",
+      "unlock": "Hỏi nhu cầu, khả năng phí và lo ngại của con.",
+      "levels": {
+        "1": "Con lo tôi lớn tuổi, không nên đóng phí thêm.",
+        "2": "Con sợ phí cao, quyền lợi không còn phù hợp tuổi.",
+        "3": "Ở tuổi tôi, điều kiện, thời hạn bảo vệ và loại trừ cần lưu ý gì?"
+      },
+      "reveal": "Cần phù hợp độ tuổi và sự ủng hộ con cái."
+    }
+  },
+  {
+    "card_id": "DT09",
+    "category": "ĐỒNG THUẬN",
+    "source_file": "HIỂU ĐIỀU KHÁCH HÀNG CHƯA NÓI_dự phòng.docx",
+    "front_text": "“Tôi có người em làm bảo hiểm, để tôi hỏi nó trước rồi tính.”",
+    "front_prompt": "Bạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?",
+    "front_raw": "DT09 | ĐỒNG THUẬN\n“Tôi có người em làm bảo hiểm, để tôi hỏi nó trước rồi tính.”\nBạn nghe thấy mối quan tâm thật sự nào phía sau câu nói này?\nLink: DT09",
+    "back_raw": "1. GHI NHẬN:“Em hiểu. Khi trong gia đình có người làm trong ngành, mình thường muốn nghe thêm một góc nhìn trước khi quyết định\n2. HỎI ĐÚNG: Anh/chị muốn người em xem giúp phần nào để mình yên tâm hơn với quyết định này?\n3. CHIA SẺ GÓC NHÌN: “Em cho rằng dù làm việc với ai, điều mình cần xem vẫn là giải pháp đó có phù hợp với mục tiêu và khả năng tài chính của anh/chị hay không\n4. LIÊN HỆ: Vây em hiểu là điều mình cần kiểm tra cùng người em là kế hoạch này có thật sự phù hợp với mục tiêu và khả năng tài chính của anh/chị hay không\n5. BƯỚC TIẾP THEO Vậy mình cùng xác định những tiêu chí anh/chị muốn người em xem giúp, rồi đối chiếu trên cùng một bộ thông tin nhé?",
+    "original_five_steps": {
+      "acknowledge": "“Em hiểu. Khi trong gia đình có người làm trong ngành, mình thường muốn nghe thêm một góc nhìn trước khi quyết định",
+      "probe": "Anh/chị muốn người em xem giúp phần nào để mình yên tâm hơn với quyết định này?",
+      "perspective": "“Em cho rằng dù làm việc với ai, điều mình cần xem vẫn là giải pháp đó có phù hợp với mục tiêu và khả năng tài chính của anh/chị hay không",
+      "relate": "Vây em hiểu là điều mình cần kiểm tra cùng người em là kế hoạch này có thật sự phù hợp với mục tiêu và khả năng tài chính của anh/chị hay không",
+      "next_step": "Vậy mình cùng xác định những tiêu chí anh/chị muốn người em xem giúp, rồi đối chiếu trên cùng một bộ thông tin nhé?"
+    },
+    "advisor": {
+      "task": "Làm rõ thông tin KH muốn người thân kiểm tra và so sánh khách quan.",
+      "expected_outcome": "TVV hiểu nhu cầu tham khảo, thống nhất tiêu chí và tài liệu so sánh."
+    },
+    "customer": {
+      "hidden_concern": "Muốn có thêm ý kiến chuyên môn đáng tin.",
+      "psychology": "Thận trọng, ưu tiên niềm tin.",
+      "level_reactions": {
+        "1": "Tôi muốn người em xem quyền lợi.",
+        "2": "Người em làm công ty khác, tôi muốn so sánh.",
+        "3": "Nếu người em đề xuất sản phẩm tốt hơn, em có sẵn sàng so sánh khách quan không?"
+      }
+    },
+    "observer": {
+      "focus": "Có tôn trọng người thân, tránh hạ thấp đối thủ và so sánh dựa trên tài liệu không?"
+    },
+    "original_content_status": "verified_verbatim_against_source_docx",
+    "role_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "level_content_status": "approved_semantically_summary_not_verbatim_certified",
+    "asset_status": "original_pdf_page_rendered_unchanged",
+    "content_version": "handoff-1.2",
+    "secret_v5": {
+      "hidden": "Muốn người thân làm bảo hiểm đánh giá và so sánh khách quan.",
+      "context": "Thận trọng, ưu tiên niềm tin.",
+      "unlock": "Hỏi tiêu chí so sánh; cung cấp thông tin chính thức.",
+      "levels": {
+        "1": "Tôi muốn người em xem quyền lợi.",
+        "2": "Người em làm công ty khác, tôi muốn so sánh.",
+        "3": "Nếu người em đề xuất sản phẩm tốt hơn, em có sẵn sàng so sánh khách quan không?"
+      },
+      "reveal": "Cần góc nhìn chuyên môn đáng tin cậy."
+    }
+  }
+]

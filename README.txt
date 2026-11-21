@@ -1,0 +1,1 @@
+V5 Netlify Drop: 50 thẻ, 100 ảnh gốc. Nội dung bí mật/điều kiện mở khóa/REVEAL được cá nhân hóa theo từng mã thẻ. Phản ứng 3 cấp độ lấy từ V4. Một thiết bị chung hoặc tự luyện tập; chưa đồng bộ ba thiết bị và chưa có quản lý lớp tập trung. Kết quả lưu cục bộ và xuất CSV.
